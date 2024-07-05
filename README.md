@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/e926aacd-542e-465c-87c5-e6df372e00b6/deploy-status)](https://app.netlify.com/sites/midl-2023-fe2b05/deploys)
 
-# MIDL 2024 (Paris) website
+# MIDL 2025 (Salt Lake City) website
 
 This repository contains the source code of the 2024.midl.io website.
 

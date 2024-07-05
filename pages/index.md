@@ -11,4 +11,4 @@ page_class: home
     <img alt="Utah" src="/images/midl-25-arches.jpg">
 </p>
 
-{{ newsletter("2024.midl.io", inline=False) }}
+{{ newsletter("2025.midl.io", inline=False) }}
