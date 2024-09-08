@@ -2,7 +2,7 @@
 
 # MIDL 2025 (Salt Lake City) website
 
-This repository contains the source code of the 2024.midl.io website.
+This repository contains the source code of the 2025.midl.io website.
 
 * Pages are files in `pages/` and can either be MarkDown (`.md`) or HTML (`.html`) files
 * Global settings, such as the navigation bar, are in `website.yaml`
