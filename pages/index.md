@@ -5,10 +5,13 @@ page_class: home
 {% from "_macros.html" import newsletter %}
 
 # Medical Imaging with Deep Learning
-## Salt Lake City, XX—XX July 2025
+## Salt Lake City, 9—11 July 2025
 
 <p class="primary-photo centered">
     <img alt="Utah" src="/images/midl-25-arches.jpg">
 </p>
+
+<iframe width="720" height="405" src="https://youtu.be/TcsJES1UgjY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 {{ newsletter("2025.midl.io", inline=False) }}
