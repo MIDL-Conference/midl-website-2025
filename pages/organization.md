@@ -8,7 +8,7 @@ title: "Organization"
 
 * [Shireen Elhabian](https://www.sci.utah.edu/~shireen), Ph.D., Kahlert School of Computing, Scientific Computing and Imaging Institute, University of Utah
 * [Tolga Tasdizen](https://www.sci.utah.edu/~tolga), Ph.D., Department of Electrical and Computer Engineering, Scientific Computing and Imaging Institute, University of Utah
-* [Ronald M. Summers](https://scholar.google.com/citations?user=j4cvq80AAAAJ&hl=en), MD, Ph.D., FSAR, FAIMBE, Radiology and Imaging Sciences, National Institutes of Health (NIH) Clinical Center
+* [Ronald M. Summers](https://www.cc.nih.gov/meet-our-doctors/rsummers.html), MD, Ph.D., FSAR, FAIMBE, Radiology and Imaging Sciences, National Institutes of Health (NIH) Clinical Center
 
 
 ## Program chairs
