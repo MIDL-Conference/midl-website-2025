@@ -57,7 +57,7 @@ Join us at MIDL 2025 to share insights, forge collaborations, and push the bound
 
 All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[Anywhere on Earth (AoE)](https://en.wikipedia.org/wiki/Anywhere_on_Earth)**.
 
-**Note that visa invitation letters will be available on request as soon as a valid paper has been submitted.**
+**Note that visa invitation letters will be available on request as soon as a valid paper has been submitted. Please contact the organizers at [2025@midl.io](mailto:2025@midl.io)**
 
 While the title and abstract can still be changed after the registration deadline (until the submission deadline), they will be used to assign the papers to the reviewers. The authors are therefore asked to give meaningful names and abstracts.
 
