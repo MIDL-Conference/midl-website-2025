@@ -24,7 +24,6 @@ page_class: "keynotes"
 **Biography:** 
 
 <!--{{ video("https://video.midl.io/2022/keynote1.mp4") }}-->
--->
 
 ***
 <p><a id="keynoteX"></a></p>
@@ -45,7 +44,6 @@ page_class: "keynotes"
 **Biography:** 
 
 <!--{{ video("https://video.midl.io/2022/keynote1.mp4") }}-->
--->
 
 ***
 <p><a id="keynoteX"></a></p>
@@ -65,7 +63,6 @@ page_class: "keynotes"
 **Biography:** 
 
 <!--{{ video("https://video.midl.io/2022/keynote1.mp4") }}-->
--->
 
 ***
 <p><a id="keynoteX"></a></p>
@@ -86,7 +83,6 @@ page_class: "keynotes"
 **Biography:** 
 
 <!--{{ video("https://video.midl.io/2022/keynote1.mp4") }}-->
--->
 
 
 ***
@@ -108,4 +104,3 @@ page_class: "keynotes"
 **Biography:** 
 
 <!--{{ video("https://video.midl.io/2022/keynote1.mp4") }}-->
--->
