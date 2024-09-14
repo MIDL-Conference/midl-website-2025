@@ -8,7 +8,7 @@ page_class: "keynotes"
 # Keynote speakers
 <p><a id="keynoteX"></a></p>
 
-## Prof. Tal Arbel, Ph.D.![Portrait of Tal Arbel](../static/images/keynotes/tal_arbel.jpg){: width="180" }
+## Prof. Tal Arbel, Ph.D.![Portrait of Tal Arbel](/images/keynotes/tal_arbel.jpg){: width="180" }
 ### Professor, Department of Electrical and Computer Engineering, McGill University
 
 
@@ -29,7 +29,7 @@ page_class: "keynotes"
 ***
 <p><a id="keynoteX"></a></p>
 
-## Prof. Daniel Rueckert, Ph.D.![Portrait of Daniel Rueckert](../static/images/keynotes/daniel_rueckert.jpg){: width="180" }
+## Prof. Daniel Rueckert, Ph.D.![Portrait of Daniel Rueckert](/images/keynotes/daniel_rueckert.jpg){: width="180" }
 ### Professor in Artificial Intelligence in Healthcare and Medicine
 ### Technical University of Munich and Imperial College London
 
@@ -50,7 +50,7 @@ page_class: "keynotes"
 ***
 <p><a id="keynoteX"></a></p>
 
-## 	Prof. Mirabela Rusu, Ph.D.![Portrait of Mirabela Rusu](../static/images/keynotes/mirabela_rusu.jpg){: width="180" }
+## 	Prof. Mirabela Rusu, Ph.D.![Portrait of Mirabela Rusu](/images/keynotes/mirabela_rusu.jpg){: width="180" }
 ### Assistant Professor of Radiology, Standford University
 
 🏠 [Homepage](https://profiles.stanford.edu/mirabela-rusu)
@@ -70,7 +70,7 @@ page_class: "keynotes"
 ***
 <p><a id="keynoteX"></a></p>
 
-## Dr. Ismail Baris Turkey, M.D.![Portrait of Ismail Baris Turkey](../static/images/keynotes/baris_turkbey.jpg){: width="180" }
+## Dr. Ismail Baris Turkey, M.D.![Portrait of Ismail Baris Turkey](/images/keynotes/baris_turkbey.jpg){: width="180" }
 ### Director of the Artificial Intelligence Resource (AIR), Senior Clinician
 ### Center for Cancer Research, National Cancer Institute (NCI), National Institutes of Health (NIH)
 
@@ -92,7 +92,7 @@ page_class: "keynotes"
 ***
 <p><a id="keynoteX"></a></p>
 
-## Dr. Stephen Aylward, Ph.D.![Portrait of Ismail Baris Turkey](../static/images/keynotes/stephen_aylward.jpg){: width="180" }
+## Dr. Stephen Aylward, Ph.D.![Portrait of Ismail Baris Turkey](/images/keynotes/stephen_aylward.jpg){: width="180" }
 ### Global Alliance Manager Developer Relations: MedTech Ecosystem, NVIDIA
 ### Adjunct Associate Professor of Computer Science, University of North Carolina - Chapel Hill
 
