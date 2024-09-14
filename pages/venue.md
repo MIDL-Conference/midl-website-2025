@@ -29,13 +29,14 @@ As you attend your conference at the University of Utah, you will find a campus 
 ![](/images/venue/theU.png)
 *The Block U is a large concrete hillside letter on Mount Van Cott in Salt Lake City, Utah. The stylized "U" is a logo of the University of Utah and is located just north of the university’s campus.*
 
+![](/images/venue/sci.png)
 *University of Utah College of Engineering and the Scientific Computing and Imaging Institute*
 
 ## University Guest House
 
 The University of Utah Guest House is the perfect venue for our conference, offering both convenience and comfort on the scenic university campus. This premier facility not only provides state-of-the-art conference rooms and amenities but also places attendees in the heart of the university's vibrant academic environment. Surrounded by the picturesque Wasatch Mountains, the Guest House offers a range of accommodation options to suit various needs and budgets, ensuring a pleasant stay. Its location on campus allows easy access to university resources and facilities, enhancing the overall experience for all conference attendees. Whether you are looking to network, attend sessions, or simply enjoy the serene campus setting, the University of Utah Guest House provides an ideal backdrop for our event.
 
-![](/images/venue/guest-house.png)
+![](/images/venue/guest-house.jpg)
 
 
 ## Accessibility
