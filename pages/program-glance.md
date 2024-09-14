@@ -2,4 +2,7 @@
 title: Program at a Glance
 ---
 
-![Program-at-glanes](/images/midl-program.png)
+# Program at a Glance
+
+![Program-at-glanes](/images/midl-program.png){ width=100% }
+
