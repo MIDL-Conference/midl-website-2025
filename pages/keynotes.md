@@ -8,10 +8,13 @@ page_class: "keynotes"
 # Keynote speakers
 <p><a id="keynoteX"></a></p>
 
-## [Prof. Tal Arbel, Ph.D.](https://www.cim.mcgill.ca/~arbel/)![Portrait of Tal Arbel](../static/images/keynotes/tal_arbel.jpg){: width="180" }
+## Prof. Tal Arbel, Ph.D.![Portrait of Tal Arbel](../static/images/keynotes/tal_arbel.jpg){: width="180" }
 ### Professor, Department of Electrical and Computer Engineering, McGill University
 
 
+🏠 [Homepage](https://www.cim.mcgill.ca/~arbel/)
+🎓 [Google Scholar](https://scholar.google.com/citations?user=0AN34NMAAAAJ&hl=en&oi=ao)
+  
 <!--
 #### 
 ### **Title**
@@ -26,10 +29,13 @@ page_class: "keynotes"
 ***
 <p><a id="keynoteX"></a></p>
 
-## [Prof. Daniel Rueckert]((https://www.professoren.tum.de/rueckert-daniel)), PhD ![Portrait of Daniel Rueckert](../static/images/keynotes/daniel_rueckert.jpg){: width="180" }
+## Prof. Daniel Rueckert, Ph.D.![Portrait of Daniel Rueckert](../static/images/keynotes/daniel_rueckert.jpg){: width="180" }
 ### Professor in Artificial Intelligence in Healthcare and Medicine
 ### Technical University of Munich and Imperial College London
 
+🏠 [Homepage](https://www.professoren.tum.de/rueckert-daniel)
+🎓 [Google Scholar](https://scholar.google.com/citations?user=H0O0WnQAAAAJ&hl=en&oi=ao)
+
 <!--
 #### 
 ### **Title**
@@ -44,9 +50,12 @@ page_class: "keynotes"
 ***
 <p><a id="keynoteX"></a></p>
 
-## 	[Prof. Mirabela Rusu, Ph.D.](https://profiles.stanford.edu/mirabela-rusu)![Portrait of Mirabela Rusu](../static/images/keynotes/mirabela_rusu.jpg){: width="180" }
+## 	Prof. Mirabela Rusu, Ph.D.![Portrait of Mirabela Rusu](../static/images/keynotes/mirabela_rusu.jpg){: width="180" }
 ### Assistant Professor of Radiology, Standford University
 
+🏠 [Homepage](https://profiles.stanford.edu/mirabela-rusu)
+🎓 [Google Scholar](https://scholar.google.com/citations?user=vmwsOyoAAAAJ&hl=en&oi=ao)
+
 <!--
 #### 
 ### **Title**
@@ -61,10 +70,12 @@ page_class: "keynotes"
 ***
 <p><a id="keynoteX"></a></p>
 
-## [Dr. Ismail Baris Turkey, M.D.](https://ccr.cancer.gov/staff-directory/ismail-baris-turkbey#qt-staff_profile_tabs-ui-tabs6)![Portrait of Ismail Baris Turkey](../static/images/keynotes/baris_turkbey.jpg){: width="180" }
+## Dr. Ismail Baris Turkey, M.D.![Portrait of Ismail Baris Turkey](../static/images/keynotes/baris_turkbey.jpg){: width="180" }
 ### Director of the Artificial Intelligence Resource (AIR), Senior Clinician
 ### Center for Cancer Research, National Cancer Institute (NCI), National Institutes of Health (NIH)
 
+🏠 [Homepage](https://ccr.cancer.gov/staff-directory/ismail-baris-turkbey#qt-staff_profile_tabs-ui-tabs6)
+🎓 [Google Scholar](https://scholar.google.com/citations?user=XiMbUboAAAAJ&hl=en)
 
 <!--
 #### 
@@ -81,10 +92,12 @@ page_class: "keynotes"
 ***
 <p><a id="keynoteX"></a></p>
 
-## [Dr. Stephen Aylward, Ph.D.](https://www.aylward.org)![Portrait of Ismail Baris Turkey](../static/images/keynotes/stephen_aylward.jpg){: width="180" }
+## Dr. Stephen Aylward, Ph.D.![Portrait of Ismail Baris Turkey](../static/images/keynotes/stephen_aylward.jpg){: width="180" }
 ### Global Alliance Manager Developer Relations: MedTech Ecosystem, NVIDIA
 ### Adjunct Associate Professor of Computer Science, University of North Carolina - Chapel Hill
 
+🏠 [Homepage](https://www.aylward.org)
+🎓 [Google Scholar](https://scholar.google.com/citations?user=u1UdL4oAAAAJ&hl=en&oi=ao)
 
 <!--
 #### 
