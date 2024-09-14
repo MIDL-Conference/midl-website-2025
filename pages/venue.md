@@ -26,7 +26,7 @@ The U is a top-tier research university, recognized for its substantial contribu
 
 As you attend your conference at the University of Utah, you will find a campus brimming with amenities and a community committed to transformative research and leadership development. Here at the U, we are not just educating the next generation of leaders and professionals—we are shaping the future.
 
-![](/images/venue/theU.png)
+![](/images/venue/univ.png)
 *The Block U is a large concrete hillside letter on Mount Van Cott in Salt Lake City, Utah. The stylized "U" is a logo of the University of Utah and is located just north of the university’s campus.*
 
 ![](/images/venue/sci.png)
