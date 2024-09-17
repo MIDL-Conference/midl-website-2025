@@ -30,7 +30,7 @@ title: "Organization"
 
 ## Doctoral Symposium Chair
 
-* TBD
+* Ricardo Lanfredi, Postdoctoral fellow at the National Institutes of Health (NIH) Clinical Center
 
 ## Post-Day Workshop Chair
 
@@ -43,6 +43,7 @@ Vanderbilt University
   
 
 ## Local Arrangement Chairs
+* [Tolga Tasdizen](https://www.sci.utah.edu/~tolga), Ph.D., Department of Electrical and Computer Engineering, Scientific Computing and Imaging Institute, University of Utah
 * [Deborah Zemek](https://www.sci.utah.edu/people/deb.html), Operations Manager, Scientific Computing and Imaging Institute, University of Utah
 * [Brenda Peterson](https://www.sci.utah.edu/people/brenda.html), Executive Assistant, Scientific Computing and Imaging Institute, University of Utah
 * [Kate Craven](https://www.sci.utah.edu/people/kcraven.html), Administrative Assistant, Scientific Computing and Imaging Institute, University of Utah
