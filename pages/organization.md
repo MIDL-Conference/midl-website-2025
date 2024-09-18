@@ -14,7 +14,8 @@ title: "Organization"
 ## Program Chairs
 
 * [Ronald M. Summers](https://www.cc.nih.gov/meet-our-doctors/rsummers.html), MD, Ph.D., FSAR, FAIMBE, Radiology and Imaging Sciences, National Institutes of Health (NIH) Clinical Center
-* TBD
+* [Lisa Koch](https://mlm-lab.ch/people/), Ph.D., University of Bern and Bern University Hospital
+* [Chen Chen](https://cherise215.github.io), Ph.D., the Department of Computer Science, University of Sheffield
 
 ## Scientific Advisors
 
