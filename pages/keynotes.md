@@ -67,7 +67,7 @@ page_class: "keynotes"
 ***
 <p><a id="keynoteX"></a></p>
 
-## Dr. Ismail Baris Turkey, M.D.![Portrait of Ismail Baris Turkey](/images/keynotes/baris_turkbey.jpg){: width="180" }
+## Dr. Ismail Baris Turkbey, M.D.![Portrait of Ismail Baris Turkey](/images/keynotes/baris_turkbey.jpg){: width="180" }
 ### Director of the Artificial Intelligence Resource (AIR), Senior Clinician
 ### Center for Cancer Research, National Cancer Institute (NCI), National Institutes of Health (NIH)
 
