@@ -48,7 +48,7 @@ These submissions are **limited to 3 pages, excluding references**. Short papers
 
 Details about the submission template and instructions can be [here](https://github.com/MIDL-Conference/MIDLLatexTemplate). Submissions should be made through [OpenReview](https://openreview.net/group?id=MIDL.io/2025/Conference).
 
-For inquiries, please contact the program chairs at [2025@midl.io](mailto:2025@midl.io).
+For inquiries, please contact the program chairs at [pc@2025.midl.io](mailto:pc@2025.midl.io).
 
 Join us at MIDL 2025 to share insights, forge collaborations, and push the boundaries of medical imaging with deep learning. We look forward to your innovative contributions and to welcoming you in Salt Lake City!
 
