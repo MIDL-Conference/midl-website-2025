@@ -51,7 +51,7 @@ Vanderbilt University
 * [Kate Craven](https://www.sci.utah.edu/people/kcraven.html), Administrative Assistant, Scientific Computing and Imaging Institute, University of Utah
 
 
-## Website & Medial
+## Website & Media
 
 * [Shireen Elhabian](https://www.sci.utah.edu/~shireen), Ph.D., Kahlert School of Computing, Scientific Computing and Imaging Institute, University of Utah
 * [Nathan Galli](https://www.sci.utah.edu/people/nathang.html), Graphic Designer and Manager of the Media Group, Scientific Computing and Imaging Institute, University of Utah
