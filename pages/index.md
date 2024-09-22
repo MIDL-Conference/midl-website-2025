@@ -20,10 +20,10 @@ page_class: home
 We are looking for experts in medical imaging, AI, and deep learning to join our review panel for MIDL 2025.
 
 **Interested?**  Email the Program Committee at [pc@2025.midl.io](mailto:pc@2025.midl.io) with:
-- Your full name and affiliation
-- Areas of expertise
-- Any previous reviewing experience
-- CV or Google Scholar link
+* Your full name and affiliation
+* Areas of expertise
+* Any previous reviewing experience
+* CV or Google Scholar link
 
 Help us ensure a high-quality conference by sharing your expertise!
 
