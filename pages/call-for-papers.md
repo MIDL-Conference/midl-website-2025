@@ -10,7 +10,8 @@ We invite contributions to the 8th edition of Medical Imaging with Deep Learning
 
 This year, we are pleased to announce a **dual emphasis on both advanced methodological papers and clinically focused papers** that showcase the application of cutting-edge AI techniques in addressing clinical challenges and translating these methods into practice. We encourage submissions that demonstrate robust validation studies and clinical relevance alongside novel methodological advances.
 
-MIDL has a large scope including all areas where deep learning is used to analyze biomedical imaging data. Topics of interest include but are not limited to:
+MIDL has a large scope including all areas where deep learning is used to analyze biomedical imaging data. Topics of interest include but are not limited to:    
+
 * Segmentation of medical images
 * Learning-based image registration
 * Computer-aided detection and diagnosis
