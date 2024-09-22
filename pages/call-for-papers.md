@@ -11,22 +11,22 @@ We invite contributions to the 8th edition of Medical Imaging with Deep Learning
 This year, we are pleased to announce a **dual emphasis on both advanced methodological papers and clinically focused papers** that showcase the application of cutting-edge AI techniques in addressing clinical challenges and translating these methods into practice. We encourage submissions that demonstrate robust validation studies and clinical relevance alongside novel methodological advances.
 
 MIDL has a large scope including all areas where deep learning is used to analyze biomedical imaging data. Topics of interest include but are not limited to:
-- Segmentation of medical images
-- Learning-based image registration
-- Computer-aided detection and diagnosis
-- Image acquisition and reconstruction
-- Transfer learning and domain adaptation
-- Learning with noisy labels and limited data
-- Unsupervised deep learning and representation learning
-- Uncertainty quantification
-- Interpretability and explainable AI
-- Integration of imaging and clinical data
-- Multimodal learning combining imaging with textual data and other data types
-- Foundation models for medical imaging
-- Generative AI for medical imaging
-- Federate learning for medical imaging
-- Safe and trustworthy learning-assisted solutions for medical imaging
-- Validation studies and deep learning applications across various medical specialties such as radiology, pathology, endoscopy, dermatology, ophthalmology, and more.
+* Segmentation of medical images
+* Learning-based image registration
+* Computer-aided detection and diagnosis
+* Image acquisition and reconstruction
+* Transfer learning and domain adaptation
+* Learning with noisy labels and limited data
+* Unsupervised deep learning and representation learning
+* Uncertainty quantification
+* Interpretability and explainable AI
+* Integration of imaging and clinical data
+* Multimodal learning combining imaging with textual data and other data types
+* Foundation models for medical imaging
+* Generative AI for medical imaging
+* Federate learning for medical imaging
+* Safe and trustworthy learning-assisted solutions for medical imaging
+* Validation studies and deep learning applications across various medical specialties such as radiology, pathology, endoscopy, dermatology, ophthalmology, and more.
 
 Inquiries to the chairs can be addressed directly to [2025@midl.io](mailto:2025@midl.io).
 
