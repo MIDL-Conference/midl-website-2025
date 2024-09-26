@@ -17,7 +17,7 @@ page_class: home
 
 ### Call for Reviewers and Area Chairs
 
-We are seeking experts in medical imaging, AI, and deep learning to join the review panel for MIDL 2025.
+We are seeking experts in medical imaging, AI, and deep learning to join the review panel and area chair team for MIDL 2025.
 
 **Interested?** Please apply via this [form](https://forms.gle/kuYTx6BffhdPc1sWA) by **October 21st, 2024**.
 
