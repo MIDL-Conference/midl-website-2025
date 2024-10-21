@@ -49,7 +49,7 @@ page_class: "keynotes"
 <p><a id="keynoteX"></a></p>
 
 ## 	Prof. Mirabela Rusu, Ph.D.![Portrait of Mirabela Rusu](/images/keynotes/mirabela_rusu.jpg){: width="180" }
-### Assistant Professor of Radiology, Standford University
+### Assistant Professor of Radiology, Stanford University
 
 🏠 [Homepage](https://profiles.stanford.edu/mirabela-rusu)
 🎓 [Google Scholar](https://scholar.google.com/citations?user=vmwsOyoAAAAJ&hl=en&oi=ao)
