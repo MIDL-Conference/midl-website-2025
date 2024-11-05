@@ -16,6 +16,8 @@ title: "Organization"
 * [Ronald M. Summers](https://www.cc.nih.gov/meet-our-doctors/rsummers.html), MD, Ph.D., FSAR, FAIMBE, Radiology and Imaging Sciences, National Institutes of Health (NIH) Clinical Center
 * [Lisa Koch](https://mlm-lab.ch/people/), Ph.D., University of Bern and Bern University Hospital
 * [Chen Chen](https://cherise215.github.io), Ph.D., the Department of Computer Science, University of Sheffield
+* [Yan Zhuang](https://yanzhuang.me/), Ph.D., Department of Diagnostic, Molecular and Interventional Radiology, and Windreich Department of Artificial Intelligence and Human Health, Icahn School of Medicine at Mount Sinai
+
 
 ## Scientific Advisors
 
