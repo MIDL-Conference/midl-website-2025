@@ -19,7 +19,8 @@ page_class: home
 
 We are seeking experts in medical imaging, AI, and deep learning to join the review panel and area chair team for MIDL 2025.
 
-**Interested?** Please apply via this [form](https://forms.gle/kuYTx6BffhdPc1sWA) by **October 21st, 2024**.
+**Interested?** Please apply via this [form](https://forms.gle/79BQq68T2dK24Jhf8) 
+<!--- by **October 21st, 2024**. --->
 
 Help us ensure a high-quality conference by sharing your expertise!
 
