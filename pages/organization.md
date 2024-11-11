@@ -64,7 +64,7 @@ title: "Organization"
 * Neel Dey,	Massachusetts Institute of Technology 
 * Attila Simko,	Umeå University
 * Niharika S. D'Souza,	IBM
-* Karthik Gopinath,	IIIT Hyderabad
+* Karthik Gopinath,	Massachusetts General Hospital and Harvard Medical School
 * William Hsu,	UCLA
 * Guang Li,	Hokkaido University
 * Amelia Jiménez-Sánchez,	IT University of Copenhagen
