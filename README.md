@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e926aacd-542e-465c-87c5-e6df372e00b6/deploy-status)](https://app.netlify.com/sites/midl-2023-fe2b05/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b8c8d8c7-d65e-4073-b4a7-22c26ea71e33/deploy-status)](https://app.netlify.com/sites/midl-2025/deploys)
 
 # MIDL 2025 (Salt Lake City) website
 
