@@ -2,6 +2,13 @@
 title: Sponsors
 ---
 
+# Current Sponsors
+
+## Supporting Organizations
+
+![Portrait of Daniel Rueckert](/images/sponsors/sci-30-multi.jpg){: width="180" }
+
+
 # Sponsorship Packages
 
 Explore exclusive opportunities to amplify your brand and connect with industry leaders at MIDL 2025. Our sponsorship packages offer targeted exposure, meaningful networking, and enhanced visibility among top medical imaging and AI professionals. Engage with innovators, share your expertise, and position your company at the forefront of technological advancements in healthcare. Select the package that best fits your goals and join us in shaping the future of medical imaging.
