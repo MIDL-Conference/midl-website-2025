@@ -6,11 +6,11 @@ title: Sponsors
 
 ## Silver
 
-![HCI](/images/sponsors/HCI_logo.jpg){: width="180" }
+[![HCI](/images/sponsors/HCI_logo.jpg){: width="180" }](https://uofuhealth.utah.edu/huntsman)
 
 ## Supporting Organizations
 
-![SCI](/images/sponsors/sci-30-multi.jpg){: width="180" }
+[![SCI](/images/sponsors/sci-30-multi.jpg){: width="180" }](https://www.sci.utah.edu)
 
 
 All logos are trademarks and property of their respective owners.
