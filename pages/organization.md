@@ -19,14 +19,6 @@ title: "Organization"
 * [Yan Zhuang](https://yanzhuang.me/), Ph.D., Department of Diagnostic, Molecular and Interventional Radiology, and Windreich Department of Artificial Intelligence and Human Health, Icahn School of Medicine at Mount Sinai
 
 
-## Scientific Advisors
-
-* TBD
-
-## Clinical Advisors
-
-* TBD
-* 
 ## Program Committee
 
 * Miaomiao Zhang, University of Virginia
@@ -82,6 +74,10 @@ title: "Organization"
 
 * [Bennett Landman](https://my.vanderbilt.edu/masi/people/bennett-landman-ph-d/), Professor, Department Chair, Electrical and Computer Engineering,
 Vanderbilt University
+
+## Diversity Chair
+
+* [Islem Rekik](https://basira-lab.com), Associate Professor at Imperial College London
 
 ## Industry & Sponsor Events Chair
 
