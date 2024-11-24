@@ -4,10 +4,16 @@ title: Sponsors
 
 # Current Sponsors
 
+## Silver
+
+![HCI](/images/sponsors/HCI_logo.jpg){: width="180" }
+
 ## Supporting Organizations
 
-![Portrait of Daniel Rueckert](/images/sponsors/sci-30-multi.jpg){: width="180" }
+![SCI](/images/sponsors/sci-30-multi.jpg){: width="180" }
 
+
+All logos are trademarks and property of their respective owners.
 
 # Sponsorship Packages
 
