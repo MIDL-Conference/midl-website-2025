@@ -79,7 +79,7 @@ While the title and abstract can still be changed after the registration deadlin
 ### Short Papers
 [% .deadlines %]
 * **Short paper submission deadline** 11 April 2025
-* **Final decisions** 25 April 2025
+* **Final decisions** 1 May 2025
 [% / %]
 <p class="button">
   <a href="https://openreview.net/group?id=MIDL.io/2025/Short_Papers" target="_blank">Short Paper OpenReview Platform</a>
