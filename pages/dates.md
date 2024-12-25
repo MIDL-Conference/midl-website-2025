@@ -24,7 +24,7 @@ All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[
 ## Short Papers
 [% .deadlines %]
 * **Short paper submission deadline** 11 April 2025
-* **Final decisions** 25 April 2025
+* **Final decisions** 1 May 2025
 * **Camera-ready deadline** 1 June 2025
 [% / %]
 
