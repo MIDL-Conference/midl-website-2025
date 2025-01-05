@@ -16,8 +16,7 @@ page_class: "keynotes"
 🎓 [Google Scholar](https://scholar.google.com/citations?user=0AN34NMAAAAJ&hl=en&oi=ao)
   
 
-#### 
-### **From Images to Interventions:  Uncertainty-Aware Causal Deep Learning for Predicting Disease Trajectories and Treatment Responses in Clinical Trials**
+#### **From Images to Interventions:  Uncertainty-Aware Causal Deep Learning for Predicting Disease Trajectories and Treatment Responses in Clinical Trials**
 
 
 **Abstract:** TBA
@@ -37,8 +36,7 @@ page_class: "keynotes"
 🏠 [Homepage](https://www.professoren.tum.de/rueckert-daniel)
 🎓 [Google Scholar](https://scholar.google.com/citations?user=H0O0WnQAAAAJ&hl=en&oi=ao)
 
-#### 
-### **AI and the Future of Radiology**
+#### **AI and the Future of Radiology**
 
 
 **Abstract:**  Artificial Intelligence (AI) is changing many fields across science and our society. This talk will discuss how AI is changing medicine and healthcare, particularly in radiology. I will focus on how AI can support the acquisition of medical images and image analysis and interpretation. This can enable the early detection of diseases and support the improved personalised diagnosis. I will show several examples of this in the talk, including cardiovascular MR imaging. Furthermore, we will discuss how AI solutions can be privacy-preserving while also providing trustworthy and explainable solutions for clinicians.
@@ -57,8 +55,7 @@ page_class: "keynotes"
 🏠 [Homepage](https://profiles.stanford.edu/mirabela-rusu)
 🎓 [Google Scholar](https://scholar.google.com/citations?user=vmwsOyoAAAAJ&hl=en&oi=ao)
 
-#### 
-### **Multimodal Learning for Early Cancer Detection in Low Resource Settings**
+#### **Multimodal Learning for Early Cancer Detection in Low Resource Settings**
 
 
 **Abstract:**  Clinical care is inherently multimodal, with medical image data collected throughout the patient’s journey.  For example, a patient at risk of cancer will undergo an ultrasound-guided biopsy, and when available with MRI revealing regions to be targeted due to higher risk to harbor aggressive disease. This biopsy procedure seeks to collect tissue samples for pathology and will inform treatment strategies for best outcomes. This common scenario provides unique opportunities for Artificial Intelligence (AI) methods to effectively integrate multimodal data, and learn imaging signatures in patients with known outcomes, to enable early cancer detection for patients at risk. My research focuses on developing AI methods that bridge the gap between highly informative modalities, e.g., pathology or MRI, and lower resolution modalities, e.g., ultrasound. These methods rely on multimodal image registration, image feature fusion, or integration of patient-specific data and population-specific information and rely on AI approaches for effective integration. While the learning is done with multiple imaging modalities, the inference requires only the low-resolution modality, e.g., ubiquitous conventional ultrasound, with applications in low-resource settings. These methods are applied to detect cancer and its aggressive extent in various cancers, e.g. prostate, kidney, or breast.  
@@ -78,8 +75,7 @@ page_class: "keynotes"
 🏠 [Homepage](https://ccr.cancer.gov/staff-directory/ismail-baris-turkbey#qt-staff_profile_tabs-ui-tabs6)
 🎓 [Google Scholar](https://scholar.google.com/citations?user=XiMbUboAAAAJ&hl=en)
 
-#### 
-### **Guiding Clinical Decisions in Localized Prostate Cancer with AI** 
+#### **Guiding Clinical Decisions in Localized Prostate Cancer with AI** 
 
 
 **Abstract:**  Artificial Intelligence (AI) has become a prominent area of research in oncologic imaging, including prostate cancer. Despite numerous academic studies, the clinical translation of AI for guiding decision-making in localized prostate cancer care remains underexplored. This presentation will outline the critical steps for successfully integrating AI into clinical workflows. Topics include the development and validation of AI models using diverse datasets, strategies for deployment, and the prospective use of imaging-based AI in clinical decision-making. Insights from clinical trials on AI implementation will be shared, along with preliminary findings on the prognostic capabilities of AI models in predicting treatment outcomes and long-term prognosis.
