@@ -96,12 +96,11 @@ page_class: "keynotes"
 🏠 [Homepage](https://www.aylward.org)
 🎓 [Google Scholar](https://scholar.google.com/citations?user=u1UdL4oAAAAJ&hl=en&oi=ao)
 
-<!--
-#### 
-### **Title**
 
-**Abstract:** 
+#### **MONAI For The Next Generation of Medical Technologies**
 
-**Biography:** 
+**Abstract:** MONAI is an open-source platform for medical AI that has been downloaded over 3.5M times, featured in hundreds of publications, used to win numerous medical image analysis challenges, and integrated into every major cloud-base healthcare platform as well as multiple regulatory-approved clinical products.   This presentation will explore the use of MONAI in the discovery and development of future medical products.  That future involves the intertwining of training, simulation, and execution to train and control robots, optimize equipment ergonomics, and inspire new forms of monitoring and intervention.  That future will be built on open source: MONAI, Omniverse, and the Holoscan SDK.
+
+**Biography:**  Dr. Stephen Aylward is the Global Developer Relations Manager for Medical Technologies at NVIDIA. With 25+ years in NIH, DARPA, and DoD-funded medical imaging research and open-source platform development (ITK, VTK, 3D Slicer, and MONAI), he is now combining open-source software with accelerated computing to explore and support next gen, AI-enhanced, clinical products.  His interests range from intelligent ultrasound systems to autonomous surgical robots. He is also a MICCAI Fellow, an adjunct professor in Computer Science at UNC, and chair of the MONAI Advisory Board.  Previously, he was Senior Director of Strategic Initiatives at Kitware, and before founding Kitware’s office in North Carolina, he was a tenured professor in Radiology at UNC.
 
 <!--{{ video("https://video.midl.io/2022/keynote1.mp4") }}-->
