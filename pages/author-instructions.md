@@ -34,7 +34,7 @@ The best papers of the conference will be invited to submit a journal extension 
 
 ## Short Paper
 
-In addition to original work, authors can choose to submit a shortened version of a recently published, or submitted, journal publication to foster dissemination of high-quality work. Submissions that are substantially similar to versions that have been accepted or submitted in parallel to other conferences with proceedings are not allowed.
+In addition to original work, authors can choose to submit a shortened version of a recently published, or submitted, journal publication to foster dissemination of high-quality work. Submissions that are substantially similar to versions that have been accepted or submitted in parallel to other conferences with proceedings are not allowed. Please note the short paper track opens after the full paper review cycle is completed - deadlines are listed on [Important dates](https://2025.midl.io/dates).
 
 In both cases, dual submission of your paper to a non-peer reviewed website like arXiv is allowed. Similarly, submissions that have been presented at non-archival workshops (i.e., venues that do not have publication proceedings or publish only a very short abstract) do not violate the policy.
 
