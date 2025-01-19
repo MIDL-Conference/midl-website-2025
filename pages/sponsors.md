@@ -12,7 +12,7 @@ title: Sponsors
 
 ## Supporting Organizations
 
-[![SCI](/images/sponsors/sci-30-multi.jpg){: width="180" }](https://www.sci.utah.edu)
+[![SCI](/images/sponsors/sci-30-multi.jpg){: width="240" }](https://www.sci.utah.edu)
 
 
 All logos are trademarks and property of their respective owners.
