@@ -8,6 +8,8 @@ title: Sponsors
 
 [![HCI](/images/sponsors/HCI_logo.jpg){: width="180" }](https://uofuhealth.utah.edu/huntsman)
 
+[![ARUP](/images/sponsors/ARUP-logo.png){: width="180" }](https://www.aruplab.com)
+
 ## Supporting Organizations
 
 [![SCI](/images/sponsors/sci-30-multi.jpg){: width="180" }](https://www.sci.utah.edu)
