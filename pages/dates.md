@@ -12,7 +12,7 @@ All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[
 [% .deadlines %]
 * **Full paper registration deadline** 17 January 2025
 * **Paper bidding** 18 January - 24 January 2025
-* **Full paper submission deadline** 31 January 2025
+* **Full paper submission deadline** <s> 24 January 2025</s> 31 January 2025
 * **Paper assignment** 7 February 2025
 * **Reviews due** 21 February 2025
 * **Rebuttal** 28 February – 7 March 2025
