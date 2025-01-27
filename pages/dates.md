@@ -13,11 +13,11 @@ All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[
 * **Full paper registration deadline** 17 January 2025
 * **Paper bidding** 18 January - 24 January 2025
 * **Full paper submission deadline** 31 January 2025
-* **Paper assignment** 31 January 2025
-* **Reviews due** 14 February 2025
-* **Rebuttal** 21 February – 28 February 2025
-* **Discussion period** 1 March – 7 March 2025
-* **Final decisions** Mid March 2025
+* **Paper assignment** 7 February 2025
+* **Reviews due** 21 February 2025
+* **Rebuttal** 28 February – 7 March 2025
+* **Discussion period** 7 March – 14 March 2025
+* **Final decisions** 21 March 2025
 * **Camera-ready deadline** 1 June 2025
 [% / %]
 
