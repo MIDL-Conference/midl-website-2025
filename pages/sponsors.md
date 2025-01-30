@@ -6,6 +6,8 @@ title: Sponsors
 
 ## Silver
 
+[![NVIDIA](/images/sponsors/nvidia.png){: width="180" }](https://www.nvidia.com/en-us/)
+
 [![HCI](/images/sponsors/HCI_logo.jpg){: width="180" }](https://uofuhealth.utah.edu/huntsman)
 
 [![ARUP](/images/sponsors/ARUP-logo.png){: width="240" }](https://www.aruplab.com)
