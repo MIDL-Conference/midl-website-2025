@@ -16,12 +16,11 @@ Long papers will go through a full, **single-blind** reviewing process via OpenR
 
 Your duties during the reviewing period will be the following.
 
-* You will be responsible for reviewing approximately 4-5 papers between 12/02/2024 and 28/02/2024.
-* You will have the chance to bid for reviewing specific papers during the bidding stage that will take place between 01/02/2024 and 07/02/2024.
+* You will be responsible for reviewing approximately 4-5 papers between 08/02/2025 and 21/02/2025.
 * Writing timely reviews of high quality that reflect the above-mentioned MIDL principles and are fair in judgment.
 * Ranking the papers.
 * Give constructive feedback and criticism that helps the authors to improve their work, which is beneficial for the community as a whole.
-* Engage in discussion during the 14-day rebuttal phase between the other reviewers and authors (for full papers), particularly for papers where the decision is uncertain (borderline).
+* Engage in discussion during the rebuttal and discussion phase between the other reviewers and authors (for full papers), particularly for papers where the decision is uncertain (borderline).
 
 [% .deadlines %]
 * **Full paper registration deadline** 17 January 2025
@@ -49,5 +48,5 @@ Create an account at [OpenReview](https://openreview.net/) if you do not have on
 * The **Advisors & Other Relations** section can also be filled, if you think some conflicts are not covered by the email domains.
 
 <p class="button">
-  <a href="https://openreview.net/group?id=MIDL.io/2024/Conference" target="_blank">OpenReview platform</a>
+  <a href="https://openreview.net/group?id=MIDL.io/2025/Conference" target="_blank">OpenReview platform</a>
 </p>
