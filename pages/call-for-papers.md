@@ -70,12 +70,16 @@ While the title and abstract can still be changed after the registration deadlin
 
 ### Full Papers
 [% .deadlines %]
-- **Full paper registration deadline** 17 January 2025
--	**Full paper submission deadline** 24 January 2025
--	**Reviews due** 14 February 2025
-- **Rebuttal** 21 February – 28 February 2025
-- **Discussion period** 1 March – 7 March 2025
--	**Final decisions** Mid March 2025
+* **Full paper registration deadline** 17 January 2025
+* **Paper bidding** 18 January - 24 January 2025
+* **Full paper submission deadline** <s> 24 January 2025 </s> &nbsp;&nbsp;  31 January 2025
+* **Paper assignment** <s> 1 February 2025 </s> &nbsp;&nbsp; 8 February 2025
+* **Reviews due** <s> 14 February 2025 </s>&nbsp;&nbsp;  21 February 2025
+* **Rebuttal** <s> 21 February – 28 February 2025 </s>&nbsp;&nbsp; 28 February – 7 March 2025
+* **Discussion period** <s> 1 March – 7 March 2025 </s>&nbsp;&nbsp; 8 March – 14 March 2025
+* **Meta reviews** <s> 8 March – 14 March 2025 </s>&nbsp;&nbsp; 15 March – 21 March 2025
+* **Final decisions** <s> 21 March 2025 </s>&nbsp;&nbsp; 25 March 2025
+* **Camera-ready deadline** 1 June 2025
 <!-- for stricking use <s. </s>-->
 [% / %]
 <p class="button">
@@ -86,6 +90,7 @@ While the title and abstract can still be changed after the registration deadlin
 [% .deadlines %]
 * **Short paper submission deadline** 11 April 2025
 * **Final decisions** 1 May 2025
+* **Camera-ready deadline** 1 June 2025
 [% / %]
 <p class="button">
   <a href="https://openreview.net/group?id=MIDL.io/2025/Short_Papers" target="_blank">Short Paper OpenReview Platform</a>
