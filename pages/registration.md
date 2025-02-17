@@ -29,7 +29,7 @@ Early registration will be up to **May 15th 2025**.
 
 </center>
 
-Low cost housing is provided (optional) in the student dormitories at the Kahlert village for the block of 5 nights with the first night being July 7, 2025 and the last night being July 11, 2025 for all MIDL participants. Paying for specific nights is not possible. However, we ask that you indicate your arrival and departure dates on the registration form to help us with the check-in and check-out process. Each individual will be assigned to their own bedroom with shared bathrooms between 2-3 rooms. Pictures of accommodations are provided below for your information. The Kahlert village is within 15 minutes walking distance to the conference venue: [See it on the map!] (https://maps.app.goo.gl/GrMgnGT2xytWPaYZ8).
+Low cost housing is provided (optional) in the student dormitories at the Kahlert village for the block of 5 nights with the first night being July 7, 2025 and the last night being July 11, 2025 for all MIDL participants. Paying for specific nights is not possible. However, we ask that you indicate your arrival and departure dates on the registration form to help us with the check-in and check-out process. Each individual will be assigned to their own bedroom with shared bathrooms between 2-3 rooms. Pictures of accommodations are provided below for your information. The Kahlert village is within 15 minutes walking distance to the conference venue: [See it on the map!](https://maps.app.goo.gl/GrMgnGT2xytWPaYZ8).
 
 ## Refund
 
