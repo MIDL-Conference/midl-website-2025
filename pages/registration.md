@@ -15,7 +15,7 @@ Each accepted paper needs **at least one author to register** for the conference
 
 ## Fees
 
-Early registration will be up to May 15th 2025.
+Early registration will be up to **May 15th 2025**.
 
 <center>
 
