@@ -15,7 +15,7 @@ All deadlines are **23:59 [UTC-12](https://www.timeanddate.com/time/zones/aoe)/[
 * **Full paper submission deadline** <s> 24 January 2025 </s> &nbsp;&nbsp;  31 January 2025
 * **Paper assignment** <s> 1 February 2025 </s> &nbsp;&nbsp; 8 February 2025
 * **Reviews due** <s> 14 February 2025 </s>&nbsp;&nbsp;  21 February 2025
-* **Rebuttal** <s> 21 February – 28 February 2025 </s>&nbsp;&nbsp; 28 February – 7 March 2025
+* **Rebuttal** <s> 21 February – 28 February 2025 </s>&nbsp;&nbsp; 1 March – 7 March 2025
 * **Discussion period** <s> 1 March – 7 March 2025 </s>&nbsp;&nbsp; 8 March – 14 March 2025
 * **Meta reviews** <s> 8 March – 14 March 2025 </s>&nbsp;&nbsp; 15 March – 21 March 2025
 * **Final decisions** <s> 21 March 2025 </s>&nbsp;&nbsp; 25 March 2025
