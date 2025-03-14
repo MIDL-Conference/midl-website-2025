@@ -38,7 +38,7 @@ Low cost housing is provided (optional) in the student dormitories at the Kahler
 
 ## Refund
 
-For early-bird registrations, a full refund will be issued if requested by emailing [2025@midl.io](mailto:2025@midl.io)  **before April 8, 2025.** No refunds will be issued after this date. 
+For early-bird registrations, a full refund will be issued if requested by emailing [2025@midl.io](mailto:2025@midl.io)  **before May 5, 2025.** No refunds will be issued after this date. 
 
 ## Visa Letter
 
