@@ -43,7 +43,7 @@ Submissions should either contain significant methodological developments or wel
 
 ### Short Papers
 
-These submissions are **limited to 3 pages, excluding references**. Short papers may present novel methodological ideas without extensive validation or discuss recently published or submitted journal contributions, providing an opportunity for feedback. The review process for short papers will be lighter, and all accepted submissions will be presented at the conference.
+These submissions are **limited to 3 pages, excluding references**. You may include appendices, but note that the main manuscript must be self-contained and the reviewers are not obliged to check the appendix. Short papers may present novel methodological ideas without extensive validation or discuss recently published or submitted journal contributions, providing an opportunity for feedback. The review process for short papers will be lighter, and all accepted submissions will be presented at the conference.
 
 ### Paper Template and Submission Platform 
 
