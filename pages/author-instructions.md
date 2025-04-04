@@ -43,7 +43,7 @@ In addition to original work, authors can choose to submit a shortened version o
 
 In both cases, dual submission of your paper to a non-peer reviewed website like arXiv is allowed. Similarly, submissions that have been presented at non-archival workshops (i.e., venues that do not have publication proceedings or publish only a very short abstract) do not violate the policy.
 
-Short papers are **strictly limited to 3 pages (excluding references)**.
+Short papers are **strictly limited to 3 pages (excluding references)**. You may include appendices, but note that the main manuscript must be self-contained and the reviewers are not obliged to check the appendix.
 
 This policy will be enforced during the whole reviewing process period.
 
