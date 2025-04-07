@@ -10,7 +10,7 @@ page_class: "keynotes"
 
 ## Prof. Tal Arbel, Ph.D.![Portrait of Tal Arbel](/images/keynotes/tal_arbel.jpg){: width="180" }
 ### Professor, Department of Electrical and Computer Engineering, McGill University
-
+### McGill & CIFAR AI Chair – Mila
 
 🏠 [Homepage](https://www.cim.mcgill.ca/~arbel/)
 🎓 [Google Scholar](https://scholar.google.com/citations?user=0AN34NMAAAAJ&hl=en&oi=ao)
