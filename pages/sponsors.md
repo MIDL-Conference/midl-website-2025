@@ -28,7 +28,7 @@ Explore exclusive opportunities to amplify your brand and connect with industry 
 -	Five registrations for the entire conference  
 -	Acknowledgment during opening and closing address 
 -	Named sponsor for the best paper or best poster award 
--	Booth in the exhibition space co-located with posters 
+-	Booth (6x3 table) adjacent to the Foyer of Douglas at the Guest House (conference venue)
 -	Dedicated sponsor event session on one of the main conference days
 -	Featured position on the online job board
 
@@ -37,7 +37,7 @@ Explore exclusive opportunities to amplify your brand and connect with industry 
 -	Two registrations for the entire conference
 -	Acknowledgment during opening and closing address
 -	Featured position on the online job board
--	Optional: a booth in the exhibition space co-located with posters (+ $3,000)
+-	Optional: Booth (6x3 table) adjacent to the Foyer of Douglas at the Guest House (conference venue)
 
 ## Silver — $2,000
 -	Company name and logo on the conference website and banners
