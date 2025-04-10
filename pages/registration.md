@@ -13,6 +13,8 @@ The conference is being held in [Salt Lake City, Utah](/venue.html). For a more 
 
 Each accepted paper needs **at least one author to register** for the conference. Please make sure to **enter the ID of the paper** you submitted on the registration form. 
 
+**One registration covers one paper**, whether it is a full or short paper. This policy helps ensure fair coverage of conference costs and supports a balanced review and presentation process across all accepted papers.
+
 ## Fees
 
 Early registration will be up to **May 15th 2025**.
