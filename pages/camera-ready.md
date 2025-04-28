@@ -50,6 +50,8 @@ After making sure that your project compiles correctly with the standard `pdfla
 10. Please include the appendix and supplementary material in the camera-ready version.
 11. Include all the necessary figures and files in the zip folder.
 
+To streamline the process, we have prepared a [LaTeX Code Checklist](https://docs.google.com/document/d/e/2PACX-1vRi7qSjwZLRnTUaG8pD9SCWqShUEhGJ6T_whLJapGyS_RWxdFkghP9p8MF3TyIzaci-pOb-obvI93YL/pub). Please review it before submission.
+
 ### PMLR copyright form
 
 MIDL papers are published in the [PMLR proceedings](https://proceedings.mlr.press/). As such, it is required to **fill out and sign the PMLR Publication Agreement** ([http://proceedings.mlr.press/pmlr-license-agreement.pdf](http://proceedings.mlr.press/pmlr-license-agreement.pdf)). Upload the signed form in PDF format to the `Copyright Form` field.
