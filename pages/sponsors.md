@@ -4,6 +4,10 @@ title: Sponsors
 
 # Current Sponsors
 
+## Gold
+
+[![imFusion](/images/sponsors/imfusion_logo_hires.png){: width="240" }](www.imfusion.com)
+
 ## Silver
 
 [![NVIDIA](/images/sponsors/nvidia.png){: width="240" }](https://www.nvidia.com/en-us/)
