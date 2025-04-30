@@ -6,17 +6,17 @@ title: Sponsors
 
 ## Gold
 
-[![imFusion](/images/sponsors/imfusion_logo_hires.png){: width="240" }](www.imfusion.com)
+[![imFusion](/images/sponsors/imfusion_logo_hires.png){: width="440" }](www.imfusion.com)
 
 ## Silver
 
 [![NVIDIA](/images/sponsors/nvidia.png){: width="240" }](https://www.nvidia.com/en-us/)
-[![HCI](/images/sponsors/HCI_logo.jpg){: width="180" }](https://uofuhealth.utah.edu/huntsman)
+[![HCI](/images/sponsors/HCI_logo.jpg){: width="140" }](https://uofuhealth.utah.edu/huntsman)
 [![ARUP](/images/sponsors/ARUP-logo.png){: width="240" }](https://www.aruplab.com)
 
 ## Bronze
 
-[![Voxel51](/images/sponsors/Logo_FullVoxel51_FullColor_RGB.svg){: width="240" }](https://voxel51.com)
+[![Voxel51](/images/sponsors/Logo_FullVoxel51_FullColor_RGB.svg){: width="340" }](https://voxel51.com)
 
 ## Supporting Organizations
 
