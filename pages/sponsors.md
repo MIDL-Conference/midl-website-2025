@@ -12,6 +12,10 @@ title: Sponsors
 
 [![ARUP](/images/sponsors/ARUP-logo.png){: width="240" }](https://www.aruplab.com)
 
+## Bronze
+
+[![Voxel51](/images/sponsors/Logo_FullVoxel51_FullColor_RGB.svg){: width="240" }](https://voxel51.com)
+
 ## Supporting Organizations
 
 [![SCI](/images/sponsors/sci-30-multi.jpg){: width="180" }](https://www.sci.utah.edu)
