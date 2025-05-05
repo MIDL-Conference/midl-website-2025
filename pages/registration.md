@@ -37,7 +37,7 @@ Low cost housing is provided (optional) in the student dormitories at **the Kahl
 **Check-out:** before 10 AM MT
 
 
-**Directions on how to get to Kahlert village from the airport using Trax:**    
+**Directions on how to get to Kahlert village from the airport using TRAX:**    
 - From airport TRAX station take the Green Line towards West Valley
 - Get off at Courthouse Station
 - We have learned that the Trax Line from Courthouse towards the University will be under maintenance during the conference dates. A bus line will instead be in service from Courthouse to Fort Douglas. Kahlert village is a 3-4 minute walk from the Fort Douglas stop.
