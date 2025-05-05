@@ -37,4 +37,4 @@ Short talks + Q&A from leading researchers and practitioners.
 Facilitators: TBD
 
 **12:15 PM – 12:30 PM | Wrap-Up and Discussion**     
-Recap, Q\&A, and sharing of additional resources for continued learning.
+Recap, Q&A, and sharing of additional resources for continued learning.
