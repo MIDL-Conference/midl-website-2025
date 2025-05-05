@@ -6,8 +6,8 @@ title: "Organization"
 
 ## General Chairs
 
-* [Shireen Elhabian](https://www.sci.utah.edu/~shireen), Ph.D., Kahlert School of Computing, Scientific Computing and Imaging Institute, University of Utah
 * [Tolga Tasdizen](https://www.sci.utah.edu/~tolga), Ph.D., Department of Electrical and Computer Engineering, Scientific Computing and Imaging Institute, University of Utah
+* [Shireen Elhabian](https://www.sci.utah.edu/~shireen), Ph.D., Kahlert School of Computing, Scientific Computing and Imaging Institute, University of Utah
 * [Ronald M. Summers](https://www.cc.nih.gov/meet-our-doctors/rsummers.html), MD, Ph.D., FSAR, FAIMBE, Radiology and Imaging Sciences, National Institutes of Health (NIH) Clinical Center
 
 
@@ -96,6 +96,3 @@ Vanderbilt University
 * [Shireen Elhabian](https://www.sci.utah.edu/~shireen), Ph.D., Kahlert School of Computing, Scientific Computing and Imaging Institute, University of Utah
 * [Nathan Galli](https://www.sci.utah.edu/people/nathang.html), Graphic Designer and Manager of the Media Group, Scientific Computing and Imaging Institute, University of Utah
 
----
-## Supporting organizations
-TBD
