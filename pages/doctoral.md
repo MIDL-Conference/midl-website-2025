@@ -11,7 +11,7 @@ We are pleased to share our tentative program for the Doctoral Symposium day at 
 Participants will be provided with light breakfast to stay refreshed. A relaxed networking
 opportunity to meet fellow attendees before the sessions begin.
 
-**10:00 AM - 10:45 PM | Keynote Speaker**     
+**10:00 AM - 10:45 AM | Keynote Speaker**     
 
 A distinguished keynote speaker will provide insights into advancements in medical
 imaging and future research directions.
