@@ -36,6 +36,7 @@ Low cost housing is provided (optional) in the student dormitories at **the Kahl
 **Check-in:** anytime after 2 PM MT   
 **Check-out:** before 10 AM MT
 
+
 **Directions on how to get to Kahlert village from the airport using Trax:**    
 - From airport TRAX station take the Green Line towards West Valley
 - Get off at Courthouse Station
