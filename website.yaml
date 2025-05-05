@@ -56,7 +56,7 @@ nav:
     icon: "graduation-cap"
   - title: "Post-day Workshop"
     path: "/workshop.html"
-    icon: "graduation-cap"
+    icon: "laptop"
   - title: "Camera-ready Instructions"
     path: "/camera-ready.html"
     icon: "camera"
