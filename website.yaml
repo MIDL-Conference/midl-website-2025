@@ -54,6 +54,9 @@ nav:
   - title: "Doctoral Symposium"
     path: "/doctoral.html"
     icon: "graduation-cap"
+  - title: "Post-day Workshop"
+     path: "/workshop.html"
+     icon: "laptop-code"
   - title: "Camera-ready Instructions"
     path: "/camera-ready.html"
     icon: "camera"
@@ -79,13 +82,8 @@ nav:
     path: "/job-board.html"
     icon: "external-link-alt"
 cdn: "https://static.midl.io"
-  
-  # - title: "Camera ready instructions"
-  #   path: "/camera-ready.html"
-  #   icon: "camera"
+
   
   
-  # - title: "Sponsorship"
-  #   path: "/sponsorship-packages.html"
-  #   icon: "donate"
+   
   
