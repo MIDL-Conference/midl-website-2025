@@ -65,7 +65,7 @@ page_class: "keynotes"
 
 <!--{{ video("https://video.midl.io/2022/keynote1.mp4") }}-->
 
-***
+<!-- ***
 <p><a id="keynoteX"></a></p>
 
 ## Dr. Ismail Baris Turkbey, M.D.![Portrait of Ismail Baris Turkey](/images/keynotes/baris_turkbey.jpg){: width="180" }
@@ -85,7 +85,7 @@ page_class: "keynotes"
 
 <!--{{ video("https://video.midl.io/2022/keynote1.mp4") }}-->
 
-
+-->
 ***
 <p><a id="keynoteX"></a></p>
 
