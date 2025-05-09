@@ -15,7 +15,14 @@ page_class: home
 <iframe width="720" height="405" src="https://www.youtube.com/embed/TcsJES1UgjY?si=7RtXqwoe1je39725" title="MIDL 2025 at SLC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-### Call for Reviewers and Area Chairs
+
+### 📢 Reminder: Early Registration Ends May 15!
+
+Take advantage of discounted rates by registering before May 15. Don’t miss the opportunity to join MIDL 2025 at a reduced cost!
+Please note that one registration covers one accepted paper, regardless of type (full or short paper).
+[Register Now →](https://2025.midl.io/registration)
+
+<!--- ### Call for Reviewers and Area Chairs
 
 We are seeking experts in medical imaging, AI, and deep learning to join the review panel and area chair team for MIDL 2025.
 
@@ -23,6 +30,6 @@ We are seeking experts in medical imaging, AI, and deep learning to join the rev
 <!--- by **October 21st, 2024**. --->
 
 Help us ensure a high-quality conference by sharing your expertise!
-
+--->
 
 {{ newsletter("2025.midl.io", inline=False) }}
