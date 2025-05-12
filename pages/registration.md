@@ -13,7 +13,7 @@ The conference is being held in [Salt Lake City, Utah](/venue.html). For a more 
 
 Each accepted paper needs **at least one author to register** for the conference. Please make sure to **enter the ID of the paper** you submitted on the registration form. 
 
-**One registration covers one paper**, whether it is a full or short paper. This policy helps ensure fair coverage of conference costs and supports a balanced review and presentation process across all accepted papers.
+**One registration covers one paper**, whether it is a full or short paper. This policy helps ensure fair coverage of conference costs and supports a balanced review and presentation process across all accepted papers. The **exception** to this policy is if you are the first author on 2 papers. In this case your registration will cover both of your papers. In this case, since the registration form only allows for a single paper number, please email 2025@midl.io with your name and second paper ID after you have registered your first paper.
 
 ## Fees
 
