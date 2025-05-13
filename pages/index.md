@@ -16,9 +16,9 @@ page_class: home
 </div>
 
 
-### 📢 Reminder: Early Registration Ends May 15!
+### 📢 Reminder: Early Registration Ends May 18!
 
-Take advantage of discounted rates by registering before May 15. Don’t miss the opportunity to join MIDL 2025 at a reduced cost!
+Take advantage of discounted rates by registering before May <s>15</s> 18. Don’t miss the opportunity to join MIDL 2025 at a reduced cost!
 Please note that one registration covers one accepted paper, regardless of type (full or short paper). An exception applies for authors who are first authors on two papers. For details, please visit the [registration page](https://2025.midl.io/registration).
 [Register Now →](https://2025.midl.io/registration)
 
