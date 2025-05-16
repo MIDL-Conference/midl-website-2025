@@ -4,7 +4,7 @@ title: Doctoral Symposium
 
 # Doctoral Symposium 
 
-## Symposius Program At a Glance
+## Program At a Glance
 
 We are pleased to share our tentative program for the Doctoral Symposium day at MIDL 2025. This event aims to provide an enriching experience for participants, including academic and industry professionals. We anticipate **80+ students and researchers** attending (subject to change based on final registrations). This schedule is subject to modifications depending on the availability of company representatives and panel discussion members.
 
@@ -183,14 +183,88 @@ Julia has over 20 years working experience in the areas of Artificial Intelligen
 ## Career Fair
 
 ### nView Medical 
-Booth Reps:
-* Lisa Last, nView medical COO, from Salt Lake City, USA     
+
+*Booth Reps:*
+
+* Lisa Last, nView medical COO, from Salt Lake City, USA
 * Mark Elliott, nView medical Image Quality Engineer, from Salt Lake City, USA
+
 
 ### Adobe
 
-Booth Reps:
-* Mareassa Moffitt, Adobe, University Sourcing Partner, Lehi, Utah, USA     
-* Brian Price (Also one of the panelists), Adobe, Principal Scientist, Lehi, Utah, USA     
+*Booth Reps:*
+
+* Mareassa Moffitt, Adobe, University Sourcing Partner, Lehi, Utah, USA
+* Brian Price (Also one of the panelists), Adobe, Principal Scientist, Lehi, Utah, USA
+
+
+
+### ARUP Labs
+
+*Booth Rep:* Brendan O’Fallon, Bioinformatics Director, ARUP Labs, Salt Lake City, USA
+
+
+### One-U Responsible AI Initiative and Scientific Computing and Imaging Institute
+
+*Booth Rep:* Penny Atkins, Salt Lake City, Utah, USA
+
+### Imfusion 
+
+*Booth Rep:* Max-Heinrich Laves  (Also one of the panelists), Senior research scientist, ImFusion, Munich, Germany
+
+
+### Johnson & Johnson Innovative Medicine 
+
+*Booth Rep:* Shikha Dubey, Research Associate, Denver, CO
+
+
+### Storyline 
+
+*Booth Rep:* Jeff Barson, CEO, Park City, Utah, United States
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
