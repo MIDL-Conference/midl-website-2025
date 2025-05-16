@@ -74,8 +74,20 @@ and enjoy!*
 
 **Biography:**  Edward DiBella, PhD, is a professor in the Department of Radiology and Imaging Sciences at the University of Utah School of Medicine. He also serves as the director of the Utah Center for Advanced Imaging Research (UCAIR). Dr. DiBella's research focuses on advancing magnetic resonance imaging (MRI) techniques, particularly for cardiac, cancer, and stroke applications. His work aims to improve MRI acquisition, reconstruction, and post-processing methods. He is also involved in positron emission tomography (PET) and image processing research. Dr. DiBella earned his bachelor's degree from the University of Virginia, a master's degree from the University of Vermont, and a PhD from the Georgia Institute of Technology. He completed a postdoctoral fellowship in the Department of Radiology at the University of Utah. Throughout his career, Dr. DiBella has contributed extensively to scientific literature, with numerous publications on topics such as myocardial perfusion imaging, deep learning in MRI reconstruction, and diffusion MRI techniques. His work has significantly advanced the field of medical imaging. 
 
-***
 
+## Academic Panel Discussion Panelists
 
+### Chun Yuan, Ph.D. ![Portrait of Tal Arbel](/images/doctoral/ChunYuan.jpeg){: width="180" }
+
+#### Parker Endowed Chair in Medical Imaging Research and Vice Chair for Research, Department of Radiology and Imaging Sciences, University of Utah
+#### Emeritus Professor at the Department of Radiology and the Department of Bioengineering in the University of Washington
+
+**Biography:** Dr. Chun Yuan is a leading international expert in cardiovascular and neurovascular imaging, using magnetic resonance imaging (MRI) to visualize disease in the vascular system.  He has pioneered MRI techniques for atherosclerosis characterization with histology validation, developed diagnosis and quantitative analysis techniques, and championed their standardization.  He is now expanding these techniques to study aging-related disease in the brain. His research has been supported by the NIH continuously since 1996 and is a Fellow of the International Society of Magnetic Resonance in Medicine; the American Heart Association; and the American Institute for Medical and Biological Engineering. He was the President of the Society of Magnetic Resonance Angiography in 2021, and a Visiting Professor at numerous international institutions. He received the American Heart Association – Amazon Web Service Institute for Precision Cardiovascular Medicine Award in 2019; and the Distinguished Investigator Award from the Academy of Radiology Research in 2016. 
+ 
+Dr. Yuan received his B.S. in physics at Beijing Normal University and his Ph.D. in Biomedical Physics at the University of Utah. He became Senior Research Analyst of GE Medical Systems immediately thereafter. He has pioneered multiple high-resolution MRI techniques to detect vulnerable atherosclerotic plaques and led numerous single and multi-site MRI studies examining carotid atherosclerosis.   He serves as a NIH grant reviewer and was the chairperson of NIH ANIE study section (2021-2023).  He is also a manuscript reviewer for many peer review journals focusing on magnetic resonance, arteriosclerosis, stroke, and cardiovascular sciences.
+ 
+Throughout his 30+ years at the University of Washington, he has mentored over 80 graduate and postdocs who have moved on to become professors, chief research scientists, clinician-researchers, heads of departments and other positions of responsibility in both private and government or public institutions in the USA, Asia, Europe, and around the world.  He has over 370 articles in peer-reviewed journals and wrote 23 Book Chapters. 
+ 
+Currently, Dr. Chun Yuan holds the position of Parker Endowed Chair in Medical Imaging Research and the Vice Chair for Research at the Department of Radiology and Imaging Sciences in the University of Utah. He is also Emeritus Professor at the Department of Radiology and the Department of Bioengineering in the University of Washington.  He currently supervises several postdoctoral fellows, research scientists and graduate students at both institutions.
 
 
