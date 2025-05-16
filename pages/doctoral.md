@@ -184,13 +184,13 @@ Julia has over 20 years working experience in the areas of Artificial Intelligen
 
 ### nView Medical 
 Booth Reps:
-- Lisa Last, nView medical COO, from Salt Lake City, USA     
-- Mark Elliott, nView medical Image Quality Engineer, from Salt Lake City, USA
+* Lisa Last, nView medical COO, from Salt Lake City, USA     
+* Mark Elliott, nView medical Image Quality Engineer, from Salt Lake City, USA
 
 ### Adobe
 
 Booth Reps:
-- Mareassa Moffitt, Adobe, University Sourcing Partner, Lehi, Utah, USA     
-- Brian Price (Also one of the panelists), Adobe, Principal Scientist, Lehi, Utah, USA     
+* Mareassa Moffitt, Adobe, University Sourcing Partner, Lehi, Utah, USA     
+* Brian Price (Also one of the panelists), Adobe, Principal Scientist, Lehi, Utah, USA     
 
 
