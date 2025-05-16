@@ -102,3 +102,26 @@ Currently, Dr. Chun Yuan holds the position of Parker Endowed Chair in Medical I
 **Biography:** Dr. Beatrice Knudsen is a board-certified pathologist who was recruited to the University of Utah to jumpstart a program in Computational Pathology which intersects between the Huntsman Cancer Institute and the Institute of Scientific Computing and Imaging. In her previous position at Cedars-Sinai Hospital in Los Angeles, she built a large biobank and translational research shared resource, with a strong digital pathology component and developed front end and self-administered opt-in consents. She serves on the international external advisory board for the Moonshot Program and serves as the chair of biomarker study sections in the US.
 
 
+### Christopher Gregg, Ph.D. 
+
+![Portrait of Christopher Gregg](/images/doctoral/Chris.jpg){: width="180" }
+
+*Professor of Neurobiology, University of Utah School of Medicine*    
+*Co-founder of Storyline Health Inc. and Uncharted Health *      
+
+**Biography:** Dr. Gregg is a tenured professor in the Department of Neurobiology and adjunct in Human Genetics at the University of Utah School of Medicine. He is a member of the Huntsman Cancer Institute. 
+ 
+Dr. Gregg’s basic research program at the University of Utah aims to “identify the most important gene regulatory mechanisms in the genome and make them useful”. His lab studies mechanistic links between metabolism and gene regulation in the brain to understand metabolic control, decision-making behaviors, aging, and health in different species. The lab has expertise in comparative genomics, bioinformatics, single cell multi-omics, CRISPR-Cas9 editing, mouse genetics, evolution & ecology, and computational approaches to naturalistic behavior analysis. 
+ 
+Dr. Gregg’s translational work focuses on developing and delivering massively scalable AI technology solutions that “make precision medicine available to everyone”. He aims to shift the focus in healthcare from drug discovery to the development of “Algorithms-as-Drugs” technologies that use the medicines we have in smarter ways. He is a stage IV cancer patient and advocate for free patient education and cost-effective solutions. He has contributed to the development of pioneering behavioral artificial intelligence (AI) technologies that measure over 20,000 different behavior, speech, and vocal micro-features with a smartphone at Storyline Health Inc. (www.storylinehealth.com), new approaches to treatment development at Primordial AI (www.primordialbio.com) and co-founded the free Uncharted Health Masterclass for Cancer Patients (www.unchartedhealth.org). He serves as a scientific advisor for behavioral AI companies, including Rubicon AI and DepoIQ, and consults nationally and internationally on behavioral AI technologies. 
+
+Dr. Gregg performed his PhD. studies at the University of Calgary in Canada in the field of neural stem cell biology with Dr. Samuel Weiss. He was awarded the University of Calgary Chancellor’s Medal for his work on stem cell biology and regenerative therapies and co-founded a biotechnology company called Stem Cell Therapeutics that was taken public. In 2006, he moved to Harvard University with a Human Frontiers Postdoctoral Fellowship and developed RNA-Seq methods that can distinguish the expression of maternal and paternal alleles. He was awarded the Eppendorf & Science Prize in Neurobiology and his work was selected as one of the “Top 10 Breakthroughs of the Year” by the National Institutes of Mental Health Research. He was 1 of 4 scientists worldwide selected to be a NYSCF-Robertson Neuroscience Investigator. In 2018, STAT News highlighted his lab’s work as one of the breakthroughs of the year. He has several NIH grants and his lab’s basic science research has been highlighted in international news, a TEDx talk, and a documentary developed by Illumina Inc.  
+
+
+### Alan Kuntz, Ph.D. 
+
+![Portrait of Beatrice Knudsen](/images/doctoral/Beatrice.jpg){: width="180" }
+
+*Assistant Professor, Kahlert School of Computing, Robotics Center, University of Utah*     
+
+**Biography:** Dr. Kuntz is a computer scientist and roboticist with a research focus in robot motion planning, autonomous systems, and robot design optimization. He is particularly passionate about applications for robots in healthcare and surgery. He is an Assistant Professor in the Kahlert School of Computing (KSoC) and the Robotics Center at the University of Utah where he leads the Kuntz Research Lab, an interdisciplinary research lab focusing on robotics and computational methods with medical applications. Prior to joining the KSoC faculty at Utah, he was a postdoctoral scholar at Vanderbilt University in the Vanderbilt Institute for Surgery and Engineering. Dr. Kuntz completed his PhD in computer science at the University of North Carolina at Chapel Hill.
