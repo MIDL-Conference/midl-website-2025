@@ -5,6 +5,8 @@ title: Registration
 {% from "_macros.html" import button %}
 # Registration
 
+**Registration for MIDL 2025 will close Friday, June 20. Also, please note that we are nearing capacity for our low cost housing and it will be unavailable once capacity is reached.**
+
 The conference is being held in [Salt Lake City, Utah](/venue.html). For a more detailed program of the conference, please visit [Program at a Glance](/porgram-glance.html). We will soon provide more information about the doctoral symposium.
 
 <p class="button">
