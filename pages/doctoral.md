@@ -77,10 +77,12 @@ and enjoy!*
 
 ## Academic Panel Discussion Panelists
 
-### Chun Yuan, Ph.D. ![Portrait of Tal Arbel](/images/doctoral/ChunYuan.jpeg){: width="180" }
+### Chun Yuan, Ph.D. 
 
-#### Parker Endowed Chair in Medical Imaging Research and Vice Chair for Research, Department of Radiology and Imaging Sciences, University of Utah
-#### Emeritus Professor at the Department of Radiology and the Department of Bioengineering in the University of Washington
+![Portrait of Chun Yuan](/images/doctoral/ChunYuan.jpeg){: width="180" }
+
+*Parker Endowed Chair in Medical Imaging Research and Vice Chair for Research, Department of Radiology and Imaging Sciences, University of Utah*      
+*Emeritus Professor at the Department of Radiology and the Department of Bioengineering in the University of Washington*     
 
 **Biography:** Dr. Chun Yuan is a leading international expert in cardiovascular and neurovascular imaging, using magnetic resonance imaging (MRI) to visualize disease in the vascular system.  He has pioneered MRI techniques for atherosclerosis characterization with histology validation, developed diagnosis and quantitative analysis techniques, and championed their standardization.  He is now expanding these techniques to study aging-related disease in the brain. His research has been supported by the NIH continuously since 1996 and is a Fellow of the International Society of Magnetic Resonance in Medicine; the American Heart Association; and the American Institute for Medical and Biological Engineering. He was the President of the Society of Magnetic Resonance Angiography in 2021, and a Visiting Professor at numerous international institutions. He received the American Heart Association – Amazon Web Service Institute for Precision Cardiovascular Medicine Award in 2019; and the Distinguished Investigator Award from the Academy of Radiology Research in 2016. 
  
@@ -89,5 +91,14 @@ Dr. Yuan received his B.S. in physics at Beijing Normal University and his Ph.D.
 Throughout his 30+ years at the University of Washington, he has mentored over 80 graduate and postdocs who have moved on to become professors, chief research scientists, clinician-researchers, heads of departments and other positions of responsibility in both private and government or public institutions in the USA, Asia, Europe, and around the world.  He has over 370 articles in peer-reviewed journals and wrote 23 Book Chapters. 
  
 Currently, Dr. Chun Yuan holds the position of Parker Endowed Chair in Medical Imaging Research and the Vice Chair for Research at the Department of Radiology and Imaging Sciences in the University of Utah. He is also Emeritus Professor at the Department of Radiology and the Department of Bioengineering in the University of Washington.  He currently supervises several postdoctoral fellows, research scientists and graduate students at both institutions.
+
+
+### Beatrice Knudsen, M.D., Ph.D. 
+
+![Portrait of Beatrice Knudsen](/images/doctoral/Beatrice.jpg){: width="180" }
+
+*Professor of Pathology, Computational Pathology, Department of Pathology, University of Utah*     
+
+**Biography:** Dr. Beatrice Knudsen is a board-certified pathologist who was recruited to the University of Utah to jumpstart a program in Computational Pathology which intersects between the Huntsman Cancer Institute and the Institute of Scientific Computing and Imaging. In her previous position at Cedars-Sinai Hospital in Los Angeles, she built a large biobank and translational research shared resource, with a strong digital pathology component and developed front end and self-administered opt-in consents. She serves on the international external advisory board for the Moonshot Program and serves as the chair of biomarker study sections in the US.
 
 
