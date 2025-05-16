@@ -224,47 +224,28 @@ Julia has over 20 years working experience in the areas of Artificial Intelligen
 
 
 
+## Young Researchers' Board (YRB)
 
+### Joshua Astley - Postdoctoral Research Associate 
 
+![Portrait of JoshuaAstley](/images/doctoral/JoshuaAstley.jpg){: width="180" }
 
+**Biography:** Joshua Astley obtained a degree in Mechanical Engineering and completed a PhD in Clinical Medicine at the University of Sheffield. He is currently working as a Postdoctoral Research Associate in Pulmonary MR Image Computing Science at the University of Sheffield. Josh’s research focuses on lung image analysis methods, primarily in MR imaging, alongside biomarker prediction in patients with lung disease. He has a keen interest in the scientific method and producing research that is rigorously validated and statistically sound. Josh is excited by the developing fields of explainable AI, multi-modal fusion models and uncertainty quantification. 
 
+### Anna Wundram – PhD Student
 
+![Portrait of AnnaWundram](/images/doctoral/AnnaWundram.jpg){: width="180" }
 
+**Biography:** Anna Wundram is a first year PhD at the University of Lucerne, having completed her Master’s degree in Machine Learning at the University of Tübingen last year. Her research focuses on uncertainty quantification in medical image analysis with the goal of developing safe, reliable methods that help bridge the gap between research and clinical practice.
 
+### Anwai Archit  – PhD Student
 
+![Portrait of AnwaiArchit](/images/doctoral/AnwaiArchit.jpg){: width="180" }
 
+**Biography:** Anwai Archit completed his Bachelor’s degree in Mechanical Engineering in 2020 at the Heritage Institute of Technology, Kolkata, India. He then pursued a Master’s degree in Medical Imaging and Applications (MaIA) as part of the Erasmus Mundus Joint Master Degree consortium, which took him across France, Italy, Spain and the Netherlands. Currently, he is a PhD Candidate under Prof. Dr. Constantin Pape, at the Institute for Informatics at the University of Göttingen, Germany, where his research focuses on developing generalizable deep learning models and building software tools for microscopy image analysis and beyond.
 
+### Aisha Lawal Shuaibu  – PhD Student
 
+![Portrait of AishaLawalShuaibu](/images/doctoral/AishaLawalShuaibu.jpg){: width="180" }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**Biography:** Aisha Lawal obtained her Bachelor's degree in Computer Engineering in Northern Cyprus and pursued a Master's degree in Applied Computing at the University of Malaya, Malaysia. She is currently a PhD candidate at the University of Sussex, where her research focuses on medical image registration and developing machine learning algorithms to enhance the efficiency of the registration process. Currently, she is exploring methods for longitudinal registration for neurodegenerative diseases that capture the morphology of structures over time. This can be applied to disease progression analysis and better our understanding of temporal variations in medical imaging.
