@@ -4,6 +4,8 @@ title: Doctoral Symposium
 
 # Doctoral Symposium 
 
+## Symposius Program At a Glance
+
 We are pleased to share our tentative program for the Doctoral Symposium day at MIDL 2025. This event aims to provide an enriching experience for participants, including academic and industry professionals. We anticipate **80+ students and researchers** attending (subject to change based on final registrations). This schedule is subject to modifications depending on the availability of company representatives and panel discussion members.
 
 **9:30 AM - 10:00 AM | Registration and Breakfast**    
@@ -64,6 +66,15 @@ games — a fun way to end the day while strengthening professional connections.
 
 *All activities at the Game Zone are covered by the organizers, so you can simply relax
 and enjoy!*
+
+
+## Keynote Speaker: Edward V. DiBella, PhD
+
+![Portrait of Ed Dibella](/images/doctoral/EdDibella.jpeg){: width="180" }
+
+**Biography:**  Edward DiBella, PhD, is a professor in the Department of Radiology and Imaging Sciences at the University of Utah School of Medicine. He also serves as the director of the Utah Center for Advanced Imaging Research (UCAIR). Dr. DiBella's research focuses on advancing magnetic resonance imaging (MRI) techniques, particularly for cardiac, cancer, and stroke applications. His work aims to improve MRI acquisition, reconstruction, and post-processing methods. He is also involved in positron emission tomography (PET) and image processing research. Dr. DiBella earned his bachelor's degree from the University of Virginia, a master's degree from the University of Vermont, and a PhD from the Georgia Institute of Technology. He completed a postdoctoral fellowship in the Department of Radiology at the University of Utah. Throughout his career, Dr. DiBella has contributed extensively to scientific literature, with numerous publications on topics such as myocardial perfusion imaging, deep learning in MRI reconstruction, and diffusion MRI techniques. His work has significantly advanced the field of medical imaging. 
+
+***
 
 
 
