@@ -178,3 +178,19 @@ Julia has over 20 years working experience in the areas of Artificial Intelligen
 *Max-Heinrich Laves, Senior Research Scientist, Munich, Germany*   
 
 **Biography:** Max is a senior research scientist at ImFusion in Munich, where he currently develops novel segmentation methods using graph neural networks. He studied mechanical engineering with a focus on medical technology at Leibniz Universität Hannover, Germany. After completing his PhD on calibrated uncertainty estimation in medical imaging with deep learning, he had a post-doc position at Technische Universität Hamburg. After that, he joined Philips Research and worked on deep learning techniques for image reconstruction in both CT and MRI. Since 2023, he has been applying his experience to advanced medical imaging technologies at ImFusion.
+
+
+## Career Fair
+
+### nView Medical 
+Booth Reps:
+- Lisa Last, nView medical COO, from Salt Lake City, USA     
+- Mark Elliott, nView medical Image Quality Engineer, from Salt Lake City, USA
+
+### Adobe
+
+Booth Reps:
+- Mareassa Moffitt, Adobe, University Sourcing Partner, Lehi, Utah, USA     
+- Brian Price (Also one of the panelists), Adobe, Principal Scientist, Lehi, Utah, USA     
+
+
