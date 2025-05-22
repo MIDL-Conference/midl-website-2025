@@ -67,6 +67,12 @@ games — a fun way to end the day while strengthening professional connections.
 *All activities at the Game Zone are covered by the organizers, so you can simply relax
 and enjoy!*
 
+## **Doctoral Symposium Venue: Warnock Engineering Building**
+
+[Google Maps Link](https://maps.app.goo.gl/hreacqx7GFaJgFtS7)
+
+![](/images/venue/DoctoralSymposiumVenuePath.png)
+
 
 ## Keynote Speaker: Edward V. DiBella, PhD
 

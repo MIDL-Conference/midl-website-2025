@@ -22,6 +22,7 @@ Whether you are a researcher looking to improve dataset integrity, a clinician c
 ---
 
 ## **Tentative Program:**
+**8:00 AM – 8:30 AM | Registration and Breakfast**     
 
 **8:30 AM – 8:45 AM | Welcome and Introduction**     
 Overview of workshop goals, structure, and the importance of robust data practices in medical imaging.
@@ -36,5 +37,15 @@ Short talks + Q&A from leading researchers and practitioners.
 **10:30 AM – 12:15 PM | Hands-On Tutorial: Managing Medical Imaging Datasets with FiftyOne**     
 Facilitators: TBD
 
-**12:15 PM – 12:30 PM | Wrap-Up and Discussion**     
+**12:15 PM – 1:15 PM | Lunch**     
+
+**1:15 PM – 3:00 PM | Wrap-Up and Discussion and Hackathon**     
 Recap, Q&A, and sharing of additional resources for continued learning.
+
+## **Workshop Venue: Gardner Commons: SICILIANO Auditorium**
+
+[Google Maps Link](https://maps.app.goo.gl/deq5naRhgWQEU8376)
+
+![](/images/venue/WorkshopVenuePath.png)
+ 
+
