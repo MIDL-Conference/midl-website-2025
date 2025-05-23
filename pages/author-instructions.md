@@ -13,7 +13,7 @@ title: "Author instructions"
 
 The detailed program is already available at [Program](https://2025.midl.io/scientific-program).
 
-In case you want to use the MIDL logos on your presentations, you may find them together with a style guide at: https://www.midl.io/logos
+In case you want to use the MIDL logos on your presentations, you may find them together with a style guide at: [Logos](https://www.midl.io/logos)
 
 *NOTE: Important: Please contact the local chairs (2025@midl.io) as well as the programme chairs (pc@2025.midl.io) as soon as possible (no later than 7 May 2025!) if none of the authors of your paper will be able to present your paper in person.*
 
