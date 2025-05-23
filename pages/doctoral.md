@@ -71,6 +71,8 @@ and enjoy!*
 
 [Google Maps Link](https://maps.app.goo.gl/hreacqx7GFaJgFtS7)
 
+![](/images/venue/DoctoralSymposiumVenuePath.png)
+
 
 ## Keynote Speaker: Edward V. DiBella, PhD
 

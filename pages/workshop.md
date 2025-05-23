@@ -47,5 +47,6 @@ Recap, Q&A, and sharing of additional resources for continued learning.
 
 [Google Maps Link](https://maps.app.goo.gl/deq5naRhgWQEU8376)
 
+![](/images/venue/WorkshopVenuePath.png)
  
 
