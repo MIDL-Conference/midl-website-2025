@@ -32,6 +32,8 @@ As you attend your conference at the University of Utah, you will find a campus 
 ![](/images/venue/sci.png)
 *University of Utah College of Engineering and the Scientific Computing and Imaging Institute*
 
+*Full Address*: Warnock Engineering Building, 72 S. Central Campus Drive, Salt Lake City, Utah 84112.
+ 
 [Google Maps Link](https://maps.app.goo.gl/hreacqx7GFaJgFtS7)
 
 ## University Guest House
@@ -40,10 +42,20 @@ The University of Utah Guest House is the perfect venue for our conference, offe
 
 ![](/images/venue/guest-house.jpg)
 
+*Full Address*: 110 Fort Douglas Blvd, Salt Lake City, UT 84113.
+
 [Google Maps Link](https://maps.app.goo.gl/hMyh6ZnUVqQSUpnQA) 
 
 ## Accessibility
 
 Salt Lake City International Airport stands out for its exceptional accessibility both domestically and internationally. Centrally located just minutes from downtown Salt Lake City, it serves as a vital hub with a wide array of nonstop flights connecting it to major cities across the United States. As a significant Delta hub, it also offers direct connections to key international destinations such as Amsterdam, Paris, and London, facilitating convenient travel links for global visitors. This connectivity makes it an ideal gateway not just for national attendees but also for international participants traveling to events and conferences in the city.
+
+## Public and University Transportation Options
+
+**University Shuttle Service**: University of Utah offer free bus service from 6:00am-6:00pm (specific routes also run till 10:00pm). [UofU Bus](https://uofubus.com/routes) can be used to track all the active routes and tracking bus.
+
+**Utah Transit Authority(UTA)**: UTA offers busses and local rail. [Ride UTA](https://www.rideuta.com/) should be used to track all the active routes for buses and utah trax active stations. UTA offers $5 daily passes that can be used for unlimited bus transfers for a single day, these can be bought online or from [utah transit app](https://www.rideuta.com/Fares-And-Passes/Transit-Mobile-Ticketing).  
+
+
 
 <!-- https://slcairport.com/assets/SLC-Weekly-Flight-Schedule-Changes-Report-090924.pdf -->
