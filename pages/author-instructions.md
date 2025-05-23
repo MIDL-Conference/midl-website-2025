@@ -5,6 +5,18 @@ title: "Author instructions"
 {% from "_macros.html" import button %}
 # Author Instructions
 
+## Presentation Instructions
+
+**Oral Papers**: Each oral presentation is scheduled to last for twelve (12) minutes, and it will be followed by two (2) minutes of questions. Each poster session will last for one hour (1h), during which you will have the chance to present your work and discuss it with the rest of the participants.
+
+**Poster Papers**: The poster is expected to be printed in portrait orientation with a maximum size of 36 in (width) x 48 in (height). Please plan to hang your poster before the start of the conference day and leave it up for the full day on your assigned poster session day.
+
+The detailed program is already available at [Program](https://2025.midl.io/scientific-program).
+
+In case you want to use the MIDL logos on your presentations, you may find them together with a style guide at: https://www.midl.io/logos
+
+*NOTE: Important: Please contact the local chairs (2025@midl.io) as well as the programme chairs (pc@2025.midl.io) as soon as possible (no later than 7 May 2025!) if none of the authors of your paper will be able to present your paper in person.*
+
 ## Submission Links
 
 <p class="button">
@@ -53,3 +65,6 @@ To prepare your submission to MIDL 2025 either as a full or short paper, please 
 <p class="button">
   <a href="https://github.com/MIDL-Conference/MIDLLatexTemplate" target="_blank">Paper Template</a>
 </p>
+
+
+
