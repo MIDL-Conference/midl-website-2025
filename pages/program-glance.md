@@ -31,7 +31,7 @@ Venue Addresses:
 
 ## Public and University Transportation Options
 
-**University Shuttle Service**: University of Utah offer free bus service from 6:00am-6:00pm (specific routes also run till 10:00pm). [UofU Bus](https://uofubus.com/routes) can be used to track all the active routes and tracking bus.
+**University Shuttle Service**: The University of Utah provides a free campus shuttle service from 6:00 AM to 6:00 PM, with select routes operating until 10:00 PM. You can use the [UofU Bus Tracker](https://uofubus.com/routes) to view active routes and track buses in real time. The University Guest house is conviently served by the **Orange**, **Circulator**, **Red** and **Sunnyside** shuttles. 
 
-**Utah Transit Authority(UTA)**: UTA offers busses and local rail. [Ride UTA](https://www.rideuta.com/) should be used to track all the active routes for buses and utah trax active stations. UTA offers $5 daily passes that can be used for unlimited bus transfers for a single day, these can be bought online or from [utah transit app](https://www.rideuta.com/Fares-And-Passes/Transit-Mobile-Ticketing).  
+**Utah Transit Authority(UTA)**: UTA provides an extensive network of buses and light rail (TRAX) throughout the Salt Lake City area. You can use the [Ride UTA Website](https://www.rideuta.com/) to check real-time route information for buses and TRAX, including any service disruptions due to maintenance or construction. UTA offers a $5 day pass, valid for unlimited bus and TRAX rides for a single day. Passes can be purchased online or through [UTA Transit app](https://www.rideuta.com/Fares-And-Passes/Transit-Mobile-Ticketing).  
 
