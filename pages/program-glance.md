@@ -33,7 +33,7 @@ Venue Addresses:
 
 [Google Maps Link](https://maps.app.goo.gl/hreacqx7GFaJgFtS7)
 
-## **Doctoral Symposium Game Zone Venue**: Union Building
+## **Doctoral Symposium Game Zone Venue**: Union Building Recreation Center
 
 *Full Address*: 200 S Central Campus Dr, Salt Lake City, UT 84112
 
