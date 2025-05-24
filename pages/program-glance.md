@@ -14,6 +14,19 @@ Venue Addresses:
 
 [Google Maps Link](https://maps.app.goo.gl/hMyh6ZnUVqQSUpnQA) 
 
+## **Social Event**: Granite Ballroom, University Guest House
+
+*Full Address*: 110 Fort Douglas Blvd, Salt Lake City, UT 84113.
+
+[Google Maps Link](https://maps.app.goo.gl/hMyh6ZnUVqQSUpnQA) 
+
+## **Gala Dinner**: Natural History Museum of Utah(NHMU)
+
+*Full Address*: 301 Wakara Way, Salt Lake City, UT 84108
+
+[Google Maps Link](https://maps.app.goo.gl/F9TXfbcC2pBmCUGK6) 
+
+
 ## **Doctoral Symposium Venue**: Room #2230 and Lobby
 
 *Full Address*: Warnock Engineering Building, 72 S. Central Campus Drive, Salt Lake City, Utah 84112. 
