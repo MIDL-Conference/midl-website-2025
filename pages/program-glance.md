@@ -33,6 +33,12 @@ Venue Addresses:
 
 [Google Maps Link](https://maps.app.goo.gl/hreacqx7GFaJgFtS7)
 
+## **Doctoral Symposium Game Zone Venue**: Union Building
+
+*Full Address*: 200 S Central Campus Dr, Salt Lake City, UT 84112
+
+[Google Maps Link](https://maps.app.goo.gl/SCPJB78kZz3ptBoy7)
+
 
 ## **Post Conference Workshop Venue**: SICILIANO Auditorium
 
