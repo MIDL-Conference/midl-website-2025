@@ -1,8 +1,8 @@
 ---
-title: Housing Information
+title: Housing
 ---
 
-**Housing Information**
+# Housing
 
 This page will provide the latest updates on campus housing. Any changes will be communicated here, so please check back regularly for the most current information.
 
