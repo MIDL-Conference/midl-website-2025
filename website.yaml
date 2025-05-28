@@ -68,7 +68,7 @@ nav:
     icon: "map-marker-alt"
   - title: "Housing"
     path: "/housing.html"
-    icon: "home"
+    icon: "building"
   #- title: "Awards"
   #  path: "/awards.html"
   #  icon: "award"
