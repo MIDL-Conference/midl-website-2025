@@ -67,7 +67,7 @@ title: "Organization"
 
 ## Doctoral Symposium Chair
 
-* [Shikha Dubey](https://www.sci.utah.edu/people/shikha.d.html), Postdoctoral fellow at the Scientific Computing and Imaging Institute, University of Utah
+* [Shikha Dubey](https://www.sci.utah.edu/people/shikha.d.html), Research Associate, Johnson & Johnson Innovative Medicine, Denver, CO 
 * Ricardo Lanfredi, Postdoctoral fellow at the National Institutes of Health (NIH) Clinical Center
 
 ## Post-Day Workshop Chair

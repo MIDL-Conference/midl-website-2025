@@ -39,7 +39,7 @@ a strong CV and resume for industry roles.
 The Young Researchers' Board will introduce their mission, activities, and opportunities
 for student involvement, providing inspiration for young scientists to connect and grow.
 
-**2:20 PM - 2:40 PM | Coffee Break**     
+**2:20 PM - 2:40 PM | Break**     
 
 Networking over coffee, snacks, and refreshments — a chance to continue
 conversations and build new connections.
