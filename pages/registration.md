@@ -5,7 +5,7 @@ title: Registration
 {% from "_macros.html" import button %}
 # Registration
 
-**Registration for MIDL 2025 will close Friday, June 20. Also, please note that we are nearing capacity for our low cost housing and it will be unavailable once capacity is reached.**
+**The low cost housing option has reached capacity and is no longer available. Conference registration for MIDL 2025 will close Friday, June 20.**
 
 The conference is being held in [Salt Lake City, Utah](/venue.html). For a more detailed program of the conference, please visit [Program at a Glance](/porgram-glance.html). We will soon provide more information about the doctoral symposium.
 
@@ -34,8 +34,6 @@ Early registration will be up to **May 18th 2025** (formerly May 15).
 </center>
 
 Low cost housing is provided (optional) in the student dormitories at **the Kahlert village** for the block of 5 nights with the first night being July 7, 2025 and the last night being July 11, 2025 for all MIDL participants. Paying for specific nights is not possible. However, we ask that you indicate your arrival and departure dates on the registration form to help us with the check-in and check-out process. Each individual will be assigned to their own bedroom with shared bathrooms between 2-3 rooms. 
-
-**NOTE: Registration for MIDL 2025 will close Friday, June 20. Also, please note that we are nearing capacity for our low cost housing and it will be unavailable once capacity is reached. **
 
 **Check-in:** anytime after 2 PM MT   
 **Check-out:** before 10 AM MT
