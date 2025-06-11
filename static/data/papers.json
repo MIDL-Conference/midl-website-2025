@@ -11,7 +11,8 @@
         "authors": "Ruining Deng, Yihe Yang, David J Pisapia, Benjamin L Liechty, Junchao Zhu, Juming Xiong, Junlin Guo, Zhengyi Lu, Jiacheng Wang, Xing Yao, Runxuan Yu, Rendong Zhang, Gaurav Rudravaram, Mengmeng Yin, Pinaki Sarder, Haichun Yang, Yuankai Huo, Mert R. Sabuncu",
         "Time": "Day 1 \u2014 9:00am-10:15am",
         "Poster time": "Day 1 \u2014 10:30am-11:30am",
-        "Poster ID": "Poster 1.A - O.01"
+        "Poster ID": "Poster 1.A - O.01",
+        "Chairs":"Hans Meine" 
     },
     {
         "number": 35,
@@ -39,7 +40,8 @@
         "authors": "Md Mostafijur Rahman, Radu Marculescu",
         "Time": "Day 1 \u2014 9:00am-10:15am",
         "Poster time": "Day 1 \u2014 10:30am-11:30am",
-        "Poster ID": "Poster 1.A - O.02"
+        "Poster ID": "Poster 1.A - O.02",
+        "Chairs":"Hans Meine" 
     },
     {
         "number": 137,
@@ -67,7 +69,8 @@
         "authors": "Le Bot Edern, R√©mi Giraud, Boris Mansencal, Thomas tourdias, Jose V Manjon, Pierrick Coupe",
         "Time": "Day 1 \u2014 9:00am-10:15am",
         "Poster time": "Day 1 \u2014 10:30am-11:30am",
-        "Poster ID": "Poster 1.A - O.03"
+        "Poster ID": "Poster 1.A - O.03",
+        "Chairs":"Hans Meine" 
     },
     {
         "number": 138,
@@ -95,7 +98,8 @@
         "authors": "David Anglada-Rotger, Berta Jansat, Ferran Marques, Montse Pard√†s",
         "Time": "Day 1 \u2014 9:00am-10:15am",
         "Poster time": "Day 1 \u2014 10:30am-11:30am",
-        "Poster ID": "Poster 1.A - O.04"
+        "Poster ID": "Poster 1.A - O.04",
+        "Chairs":"Hans Meine" 
     },
     {
         "number": 178,
@@ -124,6 +128,7 @@
         "Time": "Day 1 \u2014 9:00am-10:15am",
         "Poster time": "Day 1 \u2014 10:30am-11:30am",
         "Poster ID": "Poster 1.A - O.05"
+        "Chairs":"Hans Meine" 
     },
     {
         "number": 211,
