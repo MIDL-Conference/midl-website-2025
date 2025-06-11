@@ -1637,7 +1637,7 @@
         "Time": "Day 2 \u2014 1:30pm-2:45pm",
         "Poster time": "Day 2 \u2014 3:00pm-4:00pm",
         "Poster ID": "Poster 2.B - O.01",
-        "Chairs":"Chang-Fu Kuo & Bennett Landman" 
+        "Chairs":"Chang-Fu Kuo & Bernhard Kainz" 
     },
     {
         "number": 10,
@@ -1666,7 +1666,7 @@
         "Time": "Day 2 \u2014 1:30pm-2:45pm",
         "Poster time": "Day 2 \u2014 3:00pm-4:00pm",
         "Poster ID": "Poster 2.B - O.02",
-        "Chairs":"Chang-Fu Kuo & Bennett Landman" 
+        "Chairs":"Chang-Fu Kuo & Bernhard Kainz" 
     },
     {
         "number": 14,
@@ -1695,7 +1695,7 @@
         "Time": "Day 2 \u2014 1:30pm-2:45pm",
         "Poster time": "Day 2 \u2014 3:00pm-4:00pm",
         "Poster ID": "Poster 2.B - O.03",
-        "Chairs":"Chang-Fu Kuo & Bennett Landman" 
+        "Chairs":"Chang-Fu Kuo & Bernhard Kainz" 
     },
     {
         "number": 113,
@@ -1724,7 +1724,7 @@
         "Time": "Day 2 \u2014 1:30pm-2:45pm",
         "Poster time": "Day 2 \u2014 3:00pm-4:00pm",
         "Poster ID": "Poster 2.B - O.04",
-        "Chairs":"Chang-Fu Kuo & Bennett Landman" 
+        "Chairs":"Chang-Fu Kuo & Bernhard Kainz" 
     },
     {
         "number": 115,
@@ -1753,7 +1753,7 @@
         "Time": "Day 2 \u2014 1:30pm-2:45pm",
         "Poster time": "Day 2 \u2014 3:00pm-4:00pm",
         "Poster ID": "Poster 2.B - O.05",
-        "Chairs":"Chang-Fu Kuo & Bennett Landman" 
+        "Chairs":"Chang-Fu Kuo & Bernhard Kainz" 
     },
     {
         "number": 205,
@@ -2173,7 +2173,8 @@
         "authors": "Aisha L. Shuaibu, Kieran A. Gibb, Peter A. Wijeratne, Ivor J A Simpson",
         "Time": "Day 3 \u2014 9:00am-10:15am",
         "Poster time": "Day 3 \u2014 10:30am-11:30am",
-        "Poster ID": "Poster 3.A - O.01"
+        "Poster ID": "Poster 3.A - O.01",
+        "Chairs":"Alessa Hering & Bernhard Kainz" 
     },
     {
         "number": 74,
@@ -2201,7 +2202,8 @@
         "authors": "Xing Yao, Runxuan Yu, Nick DiSanto, Ehsan Khodapanah Aghdam, Kanyifeechukwu Jane Oguine, Daiwei Lu, Ange Lou, Jiacheng Wang, Dewei Hu, Gabriel A Arenas, Baris Oguz, Alison Marie Pouch, Nadav Schwartz, Brett Byram, Ipek Oguz",
         "Time": "Day 3 \u2014 9:00am-10:15am",
         "Poster time": "Day 3 \u2014 10:30am-11:30am",
-        "Poster ID": "Poster 3.A - O.02"
+        "Poster ID": "Poster 3.A - O.02",
+        "Chairs":"Alessa Hering & Bernhard Kainz" 
     },
     {
         "number": 131,
@@ -2229,7 +2231,8 @@
         "authors": "Xiaoya Tang, Bodong Zhang, Man M. Ho, Beatrice Knudsen, Tolga Tasdizen",
         "Time": "Day 3 \u2014 9:00am-10:15am",
         "Poster time": "Day 3 \u2014 10:30am-11:30am",
-        "Poster ID": "Poster 3.A - O.03"
+        "Poster ID": "Poster 3.A - O.03",
+        "Chairs":"Alessa Hering & Bernhard Kainz" 
     },
     {
         "number": 160,
@@ -2257,7 +2260,8 @@
         "authors": "Titus Griebel, Anwai Archit, Constantin Pape",
         "Time": "Day 3 \u2014 9:00am-10:15am",
         "Poster time": "Day 3 \u2014 10:30am-11:30am",
-        "Poster ID": "Poster 3.A - O.04"
+        "Poster ID": "Poster 3.A - O.04",
+        "Chairs":"Alessa Hering & Bernhard Kainz" 
     },
     {
         "number": 186,
@@ -2285,7 +2289,8 @@
         "authors": "James Batten, Michiel Schaap, Matthew Sinclair, Ying Bai, Ben Glocker",
         "Time": "Day 3 \u2014 9:00am-10:15am",
         "Poster time": "Day 3 \u2014 10:30am-11:30am",
-        "Poster ID": "Poster 3.A - O.05"
+        "Poster ID": "Poster 3.A - O.05",
+        "Chairs":"Alessa Hering & Bernhard Kainz" 
     },
     {
         "number": 203,
@@ -2692,7 +2697,7 @@
         "Time": "Day 3 \u2014 1:30pm-2:45pm",
         "Poster time": "Day 3 \u2014 3:00pm-4:00pm",
         "Poster ID": "Poster 3.B - O.01",
-        "Chairs":"Marco Castellaro & Bernhard Kainz" 
+        "Chairs":"Marco Castellaro & Bennett Landman" 
     },
     {
         "number": 50,
@@ -2721,7 +2726,7 @@
         "Time": "Day 3 \u2014 1:30pm-2:45pm",
         "Poster time": "Day 3 \u2014 3:00pm-4:00pm",
         "Poster ID": "Poster 3.B - O.02",
-        "Chairs":"Marco Castellaro & Bernhard Kainz" 
+        "Chairs":"Marco Castellaro & Bennett Landman" 
     },
     {
         "number": 73,
@@ -2750,7 +2755,7 @@
         "Time": "Day 3 \u2014 1:30pm-2:45pm",
         "Poster time": "Day 3 \u2014 3:00pm-4:00pm",
         "Poster ID": "Poster 3.B - O.03",
-        "Chairs":"Marco Castellaro & Bernhard Kainz" 
+        "Chairs":"Marco Castellaro & Bennett Landman" 
     },
     {
         "number": 120,
@@ -2779,7 +2784,7 @@
         "Time": "Day 3 \u2014 1:30pm-2:45pm",
         "Poster time": "Day 3 \u2014 3:00pm-4:00pm",
         "Poster ID": "Poster 3.B - O.04",
-        "Chairs":"Marco Castellaro & Bernhard Kainz" 
+        "Chairs":"Marco Castellaro & Bennett Landman" 
     },
     {
         "number": 234,
@@ -2808,7 +2813,7 @@
         "Time": "Day 3 \u2014 1:30pm-2:45pm",
         "Poster time": "Day 3 \u2014 3:00pm-4:00pm",
         "Poster ID": "Poster 3.B - O.05",
-        "Chairs":"Marco Castellaro & Bernhard Kainz" 
+        "Chairs":"Marco Castellaro & Bennett Landman" 
     },
     {
         "number": 253,
