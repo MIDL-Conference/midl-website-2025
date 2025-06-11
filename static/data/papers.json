@@ -12,7 +12,7 @@
         "Time": "Day 1 \u2014 9:00am-10:15am",
         "Poster time": "Day 1 \u2014 10:30am-11:30am",
         "Poster ID": "Poster 1.A - O.01",
-        "Chairs": "Hans Meine" 
+        "Chairs": "Hans Meine & Mathias Unberath" 
     },
     {
         "number": 35,
@@ -41,7 +41,7 @@
         "Time": "Day 1 \u2014 9:00am-10:15am",
         "Poster time": "Day 1 \u2014 10:30am-11:30am",
         "Poster ID": "Poster 1.A - O.02",
-        "Chairs": "Hans Meine" 
+        "Chairs": "Hans Meine & Mathias Unberath" 
     },
     {
         "number": 137,
@@ -70,7 +70,7 @@
         "Time": "Day 1 \u2014 9:00am-10:15am",
         "Poster time": "Day 1 \u2014 10:30am-11:30am",
         "Poster ID": "Poster 1.A - O.03",
-        "Chairs": "Hans Meine" 
+        "Chairs": "Hans Meine & Mathias Unberath" 
     },
     {
         "number": 138,
@@ -99,7 +99,7 @@
         "Time": "Day 1 \u2014 9:00am-10:15am",
         "Poster time": "Day 1 \u2014 10:30am-11:30am",
         "Poster ID": "Poster 1.A - O.04",
-        "Chairs": "Hans Meine" 
+        "Chairs": "Hans Meine & Mathias Unberath" 
     },
     {
         "number": 178,
@@ -128,7 +128,7 @@
         "Time": "Day 1 \u2014 9:00am-10:15am",
         "Poster time": "Day 1 \u2014 10:30am-11:30am",
         "Poster ID": "Poster 1.A - O.05",
-        "Chairs":"Hans Meine" 
+        "Chairs": "Hans Meine & Mathias Unberath" 
     },
     {
         "number": 211,
@@ -590,7 +590,8 @@
         "authors": "Qiuyi Qi, Xin Li, Ming Kong, Zikang Xu, Bingdi Chen, Qiang Zhu, S Kevin Zhou",
         "Time": "Day 1 \u2014 1:30pm-2:45pm",
         "Poster time": "Day 1 \u2014 3:00pm-4:00pm",
-        "Poster ID": "Poster 1.B - O.01"
+        "Poster ID": "Poster 1.B - O.01",
+        "Chairs":"Alessa Hering & Tom Fletcher" 
     },
     {
         "number": 32,
@@ -618,7 +619,8 @@
         "authors": "Luis-Jesus Marhuenda, Miquel Obrador-Reina, Mohamed Aas-Alas, Alberto Albiol, Roberto Paredes",
         "Time": "Day 1 \u2014 1:30pm-2:45pm",
         "Poster time": "Day 1 \u2014 3:00pm-4:00pm",
-        "Poster ID": "Poster 1.B - O.02"
+        "Poster ID": "Poster 1.B - O.02",
+        "Chairs":"Alessa Hering & Tom Fletcher" 
     },
     {
         "number": 100,
@@ -646,7 +648,8 @@
         "authors": "Maya Varma, Ashwin Kumar, Rogier Van der Sluijs, Sophie Ostmeier, Louis Blankemeier, Pierre Joseph Marcel Chambon, Christian Bluethgen, Jip Prince, Curtis Langlotz, Akshay S Chaudhari",
         "Time": "Day 1 \u2014 1:30pm-2:45pm",
         "Poster time": "Day 1 \u2014 3:00pm-4:00pm",
-        "Poster ID": "Poster 1.B - O.03"
+        "Poster ID": "Poster 1.B - O.03",
+        "Chairs":"Alessa Hering & Tom Fletcher" 
     },
     {
         "number": 153,
@@ -674,7 +677,8 @@
         "authors": "Amar Kumar, Anita Kriz, Mohammad Havaei, Tal Arbel",
         "Time": "Day 1 \u2014 1:30pm-2:45pm",
         "Poster time": "Day 1 \u2014 3:00pm-4:00pm",
-        "Poster ID": "Poster 1.B - O.04"
+        "Poster ID": "Poster 1.B - O.04",
+        "Chairs":"Alessa Hering & Tom Fletcher" 
     },
     {
         "number": 230,
@@ -702,7 +706,8 @@
         "authors": "Louis-Alexandre Leger, Maxine Leonardi, Andrea Salati, Felix Naef, Martin Weigert",
         "Time": "Day 1 \u2014 1:30pm-2:45pm",
         "Poster time": "Day 1 \u2014 3:00pm-4:00pm",
-        "Poster ID": "Poster 1.B - O.05"
+        "Poster ID": "Poster 1.B - O.05",
+        "Chairs":"Alessa Hering & Tom Fletcher" 
     },
     {
         "number": 241,
