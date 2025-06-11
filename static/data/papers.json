@@ -2691,7 +2691,8 @@
         "authors": "Lucas de Vries, Rudolf Leonardus Mirjam Van Herten, P. Matthijs van der Sluijs, Ivana Isgum, Bart J. Emmer, Charles B.L.M. Majoie, Henk Marquering, Efstratios Gavves",
         "Time": "Day 3 \u2014 1:30pm-2:45pm",
         "Poster time": "Day 3 \u2014 3:00pm-4:00pm",
-        "Poster ID": "Poster 3.B - O.01"
+        "Poster ID": "Poster 3.B - O.01",
+        "Chairs":"Marco Castellaro & Bernhard Kainz" 
     },
     {
         "number": 50,
@@ -2719,7 +2720,8 @@
         "authors": "Thijs P. Kuipers, Praneeta R. Konduri, Erik J Bekkers, Henk Marquering",
         "Time": "Day 3 \u2014 1:30pm-2:45pm",
         "Poster time": "Day 3 \u2014 3:00pm-4:00pm",
-        "Poster ID": "Poster 3.B - O.02"
+        "Poster ID": "Poster 3.B - O.02",
+        "Chairs":"Marco Castellaro & Bernhard Kainz" 
     },
     {
         "number": 73,
@@ -2747,7 +2749,8 @@
         "authors": "Mattias P Heinrich",
         "Time": "Day 3 \u2014 1:30pm-2:45pm",
         "Poster time": "Day 3 \u2014 3:00pm-4:00pm",
-        "Poster ID": "Poster 3.B - O.03"
+        "Poster ID": "Poster 3.B - O.03",
+        "Chairs":"Marco Castellaro & Bernhard Kainz" 
     },
     {
         "number": 120,
@@ -2775,7 +2778,8 @@
         "authors": "Aravind Krishnan, Thomas Li, Lucas Walker Remedios, Kaiwen Xu, Lianrui Zuo, Kim L. Sandler, Fabien Maldonado, Bennett Allan Landman",
         "Time": "Day 3 \u2014 1:30pm-2:45pm",
         "Poster time": "Day 3 \u2014 3:00pm-4:00pm",
-        "Poster ID": "Poster 3.B - O.04"
+        "Poster ID": "Poster 3.B - O.04",
+        "Chairs":"Marco Castellaro & Bernhard Kainz" 
     },
     {
         "number": 234,
@@ -2803,7 +2807,8 @@
         "authors": "Md Hasibul Husain Hisham, Shireen Elhabian, Ganesh Adluru, Andrew Arai, Eugene Kholmovski, Ravi Ranjan, Edward Dibella",
         "Time": "Day 3 \u2014 1:30pm-2:45pm",
         "Poster time": "Day 3 \u2014 3:00pm-4:00pm",
-        "Poster ID": "Poster 3.B - O.05"
+        "Poster ID": "Poster 3.B - O.05",
+        "Chairs":"Marco Castellaro & Bernhard Kainz" 
     },
     {
         "number": 253,
