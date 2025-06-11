@@ -12,7 +12,7 @@
         "Time": "Day 1 \u2014 9:00am-10:15am",
         "Poster time": "Day 1 \u2014 10:30am-11:30am",
         "Poster ID": "Poster 1.A - O.01",
-        "Chairs":"Hans Meine" 
+        "Chairs": "Hans Meine" 
     },
     {
         "number": 35,
@@ -41,7 +41,7 @@
         "Time": "Day 1 \u2014 9:00am-10:15am",
         "Poster time": "Day 1 \u2014 10:30am-11:30am",
         "Poster ID": "Poster 1.A - O.02",
-        "Chairs":"Hans Meine" 
+        "Chairs": "Hans Meine" 
     },
     {
         "number": 137,
@@ -70,7 +70,7 @@
         "Time": "Day 1 \u2014 9:00am-10:15am",
         "Poster time": "Day 1 \u2014 10:30am-11:30am",
         "Poster ID": "Poster 1.A - O.03",
-        "Chairs":"Hans Meine" 
+        "Chairs": "Hans Meine" 
     },
     {
         "number": 138,
@@ -99,7 +99,7 @@
         "Time": "Day 1 \u2014 9:00am-10:15am",
         "Poster time": "Day 1 \u2014 10:30am-11:30am",
         "Poster ID": "Poster 1.A - O.04",
-        "Chairs":"Hans Meine" 
+        "Chairs": "Hans Meine" 
     },
     {
         "number": 178,
@@ -127,7 +127,7 @@
         "authors": "Dingjie Su, Yihao Liu, Lianrui Zuo, Benoit Dawant",
         "Time": "Day 1 \u2014 9:00am-10:15am",
         "Poster time": "Day 1 \u2014 10:30am-11:30am",
-        "Poster ID": "Poster 1.A - O.05"
+        "Poster ID": "Poster 1.A - O.05",
         "Chairs":"Hans Meine" 
     },
     {
