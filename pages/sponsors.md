@@ -6,7 +6,7 @@ title: Sponsors
 
 ## Gold
 
-[![imFusion](/images/sponsors/imfusion_logo_hires.png){: width="440" }](www.imfusion.com)
+[![imFusion](/images/sponsors/imfusion_logo_hires.png){: width="440" }](https://www.imfusion.com/)
 
 ## Silver
 

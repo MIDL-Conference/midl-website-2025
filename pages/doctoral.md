@@ -185,7 +185,7 @@ Julia has over 20 years working experience in the areas of Artificial Intelligen
 [![Adove](/images/doctoral/adobe_logo.png){: width="240" }](https://www.adobe.com/)
 [![ARUP](/images/sponsors/ARUP-logo.png){: width="240" }](https://www.aruplab.com)
 [![RAI](/images/doctoral/RAi_Logo.png){: width="240" }](https://rai.utah.edu/)
-[![imFusion](/images/sponsors/imfusion_logo_hires.png){: width="440" }](www.imfusion.com)
+[![imFusion](/images/sponsors/imfusion_logo_hires.png){: width="440" }](https://www.imfusion.com/)
 [![Johnson and Johnson](/images/doctoral/JJIM.png){: width="440" }](https://www.jnj.com/)
 [![Storyline](/images/doctoral/storyline.png){: width="240" }](https://storylinehealth.com/)
 [![VA-SLC](/images/doctoral/VA.png){: width="240" }](https://www.va.gov/salt-lake-city-health-care/)
