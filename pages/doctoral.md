@@ -116,7 +116,7 @@ Currently, Dr. Chun Yuan holds the position of Parker Endowed Chair in Medical I
 ![Portrait of Christopher Gregg](/images/doctoral/Chris.jpg){: width="180" }
 
 *Professor of Neurobiology, University of Utah School of Medicine*    
-*Co-founder of Storyline Health Inc. and Uncharted Health *      
+*Co-founder of Storyline Health Inc. and Uncharted Health*      
 
 **Biography:** Dr. Gregg is a tenured professor in the Department of Neurobiology and adjunct in Human Genetics at the University of Utah School of Medicine. He is a member of the Huntsman Cancer Institute. 
  
