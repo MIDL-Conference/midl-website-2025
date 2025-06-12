@@ -70,14 +70,6 @@ games — a fun way to end the day while strengthening professional connections.
 *All activities at the Game Zone are covered by the organizers, so you can simply relax
 and enjoy!*
 
-## **Doctoral Symposium Venue: Warnock Engineering Building**
-
-[Google Maps Link](https://maps.app.goo.gl/hreacqx7GFaJgFtS7)
-
-![](/images/venue/DoctoralSymposiumVenuePath.png)
-
-![](/images/doctoral/web_map.png)
-
 
 ## Keynote Speaker: Edward V. DiBella, PhD
 
@@ -205,4 +197,12 @@ Julia has over 20 years working experience in the areas of Artificial Intelligen
 ### [Storyline](https://storylinehealth.com/)
 ### [Veterans Affairs- Salt Lake City(VA-SLC), Health Care](https://www.va.gov/salt-lake-city-health-care/)
 ### [Young Researchers' Board (YRB)](https://www.midl.io/young-researchers-board)
+
+## **Doctoral Symposium Venue: Warnock Engineering Building**
+
+[Google Maps Link](https://maps.app.goo.gl/hreacqx7GFaJgFtS7)
+
+![](/images/venue/DoctoralSymposiumVenuePath.png)
+
+![](/images/doctoral/web_map.png)
 
