@@ -188,8 +188,8 @@ Julia has over 20 years working experience in the areas of Artificial Intelligen
 [![imFusion](/images/sponsors/imfusion_logo_hires.png){: width="440" }](https://www.imfusion.com/)
 [![Johnson and Johnson](/images/doctoral/JJIM.png){: width="440" }](https://www.jnj.com/)
 [![Storyline](/images/doctoral/storyline.png){: width="240" }](https://storylinehealth.com/)
-[![VA-SLC](/images/doctoral/VA.png){: width="240" }](https://www.va.gov/salt-lake-city-health-care/)
-[![YRB](/images/doctoral/YRB_MIDL.png){: width="240" }](https://www.midl.io/young-researchers-board)
+[![VA-SLC](/images/doctoral/VA.png){: width="340" }](https://www.va.gov/salt-lake-city-health-care/)
+[![YRB](/images/doctoral/YRB_MIDL.png){: width="340" }](https://www.midl.io/young-researchers-board)
 
 ## **Doctoral Symposium Venue: Warnock Engineering Building**
 ------
