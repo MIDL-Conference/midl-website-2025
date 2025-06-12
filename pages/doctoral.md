@@ -191,6 +191,7 @@ Julia has over 20 years working experience in the areas of Artificial Intelligen
 ### [Young Researchers' Board (YRB)](https://www.midl.io/young-researchers-board)
 
 ## **Doctoral Symposium Venue: Warnock Engineering Building**
+------
 
 [Google Maps Link](https://maps.app.goo.gl/hreacqx7GFaJgFtS7)
 
