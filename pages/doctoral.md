@@ -131,40 +131,40 @@ Dr. Gregg performed his PhD. studies at the University of Calgary in Canada in t
 
 ## Industry Panel Discussion Panelists
 
-### Cristian Atria, Founder and CEO, nView Medical
+### Cristian Atria, Founder and CEO, nView Medical, Utah, USA
 
 ![Portrait of Christian](/images/doctoral/Cristian.jpg){: width="180" }
 
 
 **Biography:** Healthcare entrepreneur with over 20 years of experience in product development and commercialization. Cristian is Founder and CEO at nView medical, a company that uses deep learning to generate tomographic images during surgery.  Previously at GE Healthcare, he led major platform launches. Cristian holds multiple patents and advanced degrees in engineering and business.
 
-### Brian Price, Principal Scientist, Adobe
+### Brian Price, Principal Scientist, Adobe, Utah, USA
 
 ![Portrait of Brian](/images/doctoral/BrianPrice.jpg){: width="180" }
 
 **Biography:** Brian Price is a Principal Scientist at Adobe Research specializing in computer vision. He has developed technologies that have been included in Adobe products such as Photoshop, AfterEffects, and Acrobat. His work has resulted in over 80 academic publications, most of which were in top tier venues, and over 90 patents. He was named a Distinguished Inventor at Adobe and awarded the Tech Excellence Award, Adobe’s highest award for technical achievement. He received his PhD degree in Computer Science from Brigham Young University in 2010.
 
-### Julia Komissarchik, CEO & co-Founder, Glendor
+### Julia Komissarchik, CEO & co-Founder, Glendor, Utah, USA
 
 ![Portrait of Julia](/images/doctoral/Julia.jpg){: width="180" }
 
 **Biography:** Julia Komissarchik is a CEO & co-Founder of Glendor, Inc. Glendor PHI Sanitizer software is used by hospitals, laboratories, and pharmaceutical companies to automatically de-identify multimodal medical data. It addresses the critical challenge of protecting patients' privacy while enabling global medical data sharing and aggregation for medical research and AI training.
 Julia has over 20 years working experience in the areas of Artificial Intelligence including Machine Learning, Deep Learning, OCR, Image Processing, Speech Recognition and Analysis, Natural Language Processing. Her accomplishments include building ‘Did You Mean’ capability for Wikipedia in over 300 languages, and building a patented pronunciation training system that was incorporated into Rosetta Stone Language Learning.  Julia holds degrees from UC Berkeley (Mathematics, Magna Cum Laude) and Cornell University (Computer Science). She has 10 US Patents in AI, with several more pending.
 
-### Mao Nuon, VP of Engineering, Pictor Labs
+### Mao Nuon, VP of Engineering, Pictor Labs, LA, USA
 
 ![Portrait of Mao](/images/doctoral/MaoNuon.png){: width="180" }
 
 **Biography:** Seasoned engineering leader with two decades of experience in software engineering, product development, and leadership within the medical device and healthcare technology sectors. With a strong background in software systems, embedded systems, diagnostic instruments, complex laboratory automation, and, more recently, artificial intelligence (AI/ML). Proven track record of leading global R&D teams and translating innovative projects into successful commercial products. Currently, I serve as the Vice President of Engineering at Pictor Labs in Los Angeles, CA, where I oversee engineering operations and ensure alignment with the company’s strategic objectives. My responsibilities include providing technical leadership, managing engineering resources, and guiding cross-functional teams to deliver cutting-edge solutions. Previously, I held key leadership roles at Thermo Fisher Scientific, where I managed large, multidisciplinary engineering teams to develop Class II IVD molecular diagnostic software and lab automation systems for COVID-19 detection—contributing to one of the company’s highest-revenue products. Prior to that, I led embedded software engineering teams at Fresenius Medical Care, overseeing the development of Class III medical devices, including hemodialysis machines. My expertise includes regulatory compliance, particularly in ensuring that software development processes meet stringent medical device standards such as IEC 62304, ISO 13485, and FDA QSR 820.30.  Earlier in my career, I held leadership positions at IQVIA and the Ragon Institute of MGH, MIT, and Harvard, where I managed software and QA teams, developed mission-critical clinical trial applications, and implemented computational tools for clinical research. I hold a MS in Mathematics from the University of Massachusetts, Amherst. I am deeply passionate about developing safe, effective medical devices that make a meaningful impact on patients’ lives.
 
-### Muir Morrison,  Senior Data Scientist, ARUP Labs
+### Muir Morrison,  Senior Data Scientist, ARUP Labs, Utah, USA
 
 ![Portrait of Muir](/images/doctoral/MuirMorrison.png){: width="180" }
 
 
 **Biography:** Muir studied physics and math as an undergraduate at University of Nevada, Reno before completing a PhD in physics at Caltech. His PhD work centered on building and evaluating biophysical models of gene regulation, particularly using Bayesian statistical methods. Since joining ARUP, his work has focused on applying deep learning techniques to various clinical diagnostics data, especially whole-slide images. And when not exploring data, he is probably out exploring Utah hiking trails!
 
-### Max-Heinrich Laves, Senior Research Scientist, Imfusion
+### Max-Heinrich Laves, Senior Research Scientist, Imfusion, Munich, Germany
 
 ![Portrait of Max-Heinrich](/images/doctoral/Max-Heinrich-Laves.JPG){: width="180" }
 
