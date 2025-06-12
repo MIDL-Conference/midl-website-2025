@@ -73,12 +73,15 @@ and enjoy!*
 
 ## Keynote Speaker: Edward V. DiBella, PhD
 
+------
+
 ![Portrait of Ed Dibella](/images/doctoral/EdDibella.jpeg){: width="180" }
 
 **Biography:**  Edward DiBella, PhD, is a professor in the Department of Radiology and Imaging Sciences at the University of Utah School of Medicine. He also serves as the director of the Utah Center for Advanced Imaging Research (UCAIR). Dr. DiBella's research focuses on advancing magnetic resonance imaging (MRI) techniques, particularly for cardiac, cancer, and stroke applications. His work aims to improve MRI acquisition, reconstruction, and post-processing methods. He is also involved in positron emission tomography (PET) and image processing research. Dr. DiBella earned his bachelor's degree from the University of Virginia, a master's degree from the University of Vermont, and a PhD from the Georgia Institute of Technology. He completed a postdoctoral fellowship in the Department of Radiology at the University of Utah. Throughout his career, Dr. DiBella has contributed extensively to scientific literature, with numerous publications on topics such as myocardial perfusion imaging, deep learning in MRI reconstruction, and diffusion MRI techniques. His work has significantly advanced the field of medical imaging. 
 
 
 ## Academic Panel Discussion Panelists
+------
 
 ### Chun Yuan, Ph.D. 
 
@@ -130,6 +133,7 @@ Dr. Gregg performed his PhD. studies at the University of Calgary in Canada in t
 **Biography:** Dr. Kuntz is a computer scientist and roboticist with a research focus in robot motion planning, autonomous systems, and robot design optimization. He is particularly passionate about applications for robots in healthcare and surgery. He is an Assistant Professor in the Kahlert School of Computing (KSoC) and the Robotics Center at the University of Utah where he leads the Kuntz Research Lab, an interdisciplinary research lab focusing on robotics and computational methods with medical applications. Prior to joining the KSoC faculty at Utah, he was a postdoctoral scholar at Vanderbilt University in the Vanderbilt Institute for Surgery and Engineering. Dr. Kuntz completed his PhD in computer science at the University of North Carolina at Chapel Hill.
 
 ## Industry Panel Discussion Panelists
+------
 
 ### Cristian Atria, Founder and CEO, nView Medical, Utah, USA
 
