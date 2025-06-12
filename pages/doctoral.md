@@ -76,6 +76,7 @@ and enjoy!*
 ------
 
 ![Portrait of Ed Dibella](/images/doctoral/EdDibella.jpeg){: width="180" }
+
 *Professor, Department of Radiology and Imaging Sciences, University of Utah School of Medicine*
 *Director, Utah Center for Advanced Imaging Research (UCAIR)*
 
@@ -180,17 +181,15 @@ Julia has over 20 years working experience in the areas of Artificial Intelligen
 # Career Fair
 ------
 
-![](/images/doctoral/CareerFair.png)
-
-### [nView Medical](https://www.nviewmed.com/)
-### [Adobe](https://www.aruplab.com/)
-### [ARUP Labs]()
-### [One-U Responsible AI Initiative and Scientific Computing and Imaging Institute](https://rai.utah.edu/)
-### [Imfusion](https://www.imfusion.com/)
-### [Johnson & Johnson Innovative Medicine](https://www.jnj.com/)
-### [Storyline](https://storylinehealth.com/)
-### [Veterans Affairs- Salt Lake City(VA-SLC), Health Care](https://www.va.gov/salt-lake-city-health-care/)
-### [Young Researchers' Board (YRB)](https://www.midl.io/young-researchers-board)
+[![nView Medical](/images/doctoral/nView.png){: width="240" }](https://www.nviewmed.com/)
+[![Adove](/images/doctoral/adobe_logo.png){: width="240" }](https://www.adobe.com/)
+[![ARUP](/images/sponsors/ARUP-logo.png){: width="240" }](https://www.aruplab.com)
+[![RAI](/images/doctoral/RAi_Logo.png){: width="240" }](https://rai.utah.edu/)
+[![imFusion](/images/sponsors/imfusion_logo_hires.png){: width="440" }](www.imfusion.com)
+[![Johnson and Johnson](/images/doctoral/JJIM.png){: width="440" }](https://www.jnj.com/)
+[![Storyline](/images/doctoral/storyline.png){: width="240" }](https://storylinehealth.com/)
+[![VA-SLC](/images/doctoral/VA.png){: width="240" }](https://www.va.gov/salt-lake-city-health-care/)
+[![YRB](/images/doctoral/YRB_MIDL.png){: width="240" }](https://www.midl.io/young-researchers-board)
 
 ## **Doctoral Symposium Venue: Warnock Engineering Building**
 ------
