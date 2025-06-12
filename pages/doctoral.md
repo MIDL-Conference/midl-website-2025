@@ -3,10 +3,13 @@ title: Doctoral Symposium
 ---
 
 # Doctoral Symposium 
+------
 
 ## Program At a Glance
 
 We are pleased to share our tentative program for the Doctoral Symposium day at MIDL 2025. This event aims to provide an enriching experience for participants, including academic and industry professionals. We anticipate **80+ students and researchers** attending (subject to change based on final registrations). This schedule is subject to modifications depending on the availability of company representatives and panel discussion members.
+
+<span style="color:red;"> *NOTE: This event is open only to individuals who have received a confirmation email from the organizing committee.* </span>
 
 **9:30 AM - 10:00 AM | Registration and Breakfast**    
 
@@ -72,6 +75,8 @@ and enjoy!*
 [Google Maps Link](https://maps.app.goo.gl/hreacqx7GFaJgFtS7)
 
 ![](/images/venue/DoctoralSymposiumVenuePath.png)
+
+![](/images/doctoral/web_map.png)
 
 
 ## Keynote Speaker: Edward V. DiBella, PhD
@@ -186,7 +191,10 @@ Julia has over 20 years working experience in the areas of Artificial Intelligen
 **Biography:** Max is a senior research scientist at ImFusion in Munich, where he currently develops novel segmentation methods using graph neural networks. He studied mechanical engineering with a focus on medical technology at Leibniz Universität Hannover, Germany. After completing his PhD on calibrated uncertainty estimation in medical imaging with deep learning, he had a post-doc position at Technische Universität Hamburg. After that, he joined Philips Research and worked on deep learning techniques for image reconstruction in both CT and MRI. Since 2023, he has been applying his experience to advanced medical imaging technologies at ImFusion.
 
 
-## Career Fair
+# Career Fair
+------
+
+![](/images/doctoral/CareerFair.png)
 
 ### nView Medical 
 
@@ -195,7 +203,6 @@ Julia has over 20 years working experience in the areas of Artificial Intelligen
 * Lisa Last, nView medical COO, from Salt Lake City, USA
 * Mark Elliott, nView medical Image Quality Engineer, from Salt Lake City, USA
 
-
 ### Adobe
 
 *Booth Reps:*
@@ -203,12 +210,9 @@ Julia has over 20 years working experience in the areas of Artificial Intelligen
 * Mareassa Moffitt, Adobe, University Sourcing Partner, Lehi, Utah, USA
 * Brian Price (Also one of the panelists), Adobe, Principal Scientist, Lehi, Utah, USA
 
-
-
 ### ARUP Labs
 
 *Booth Rep:* Brendan O’Fallon, Bioinformatics Director, ARUP Labs, Salt Lake City, USA
-
 
 ### One-U Responsible AI Initiative and Scientific Computing and Imaging Institute
 
@@ -218,16 +222,17 @@ Julia has over 20 years working experience in the areas of Artificial Intelligen
 
 *Booth Rep:* Max-Heinrich Laves  (Also one of the panelists), Senior research scientist, ImFusion, Munich, Germany
 
-
 ### Johnson & Johnson Innovative Medicine 
 
 *Booth Rep:* Shikha Dubey, Research Associate, Denver, CO
-
 
 ### Storyline 
 
 *Booth Rep:* Jeff Barson, CEO, Park City, Utah, United States
 
+### Veterans Affairs- Salt Lake City(VA-SLC), Health Care 
+
+*Booth Rep:* Taylor Thurston, Health Science Specialist, Salt Lake Veterans Health Administration, Utah, United States
 
 
 ## Young Researchers' Board (YRB)
