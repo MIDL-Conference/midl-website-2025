@@ -9,7 +9,7 @@ title: Doctoral Symposium
 
 We are pleased to share our tentative program for the Doctoral Symposium day at MIDL 2025. This event aims to provide an enriching experience for participants, including academic and industry professionals. We anticipate **80+ students and researchers** attending (subject to change based on final registrations). This schedule is subject to modifications depending on the availability of company representatives and panel discussion members.
 
-<span style="color:red;"> *NOTE: This event is open only to individuals who have received a confirmation email from the organizing committee.* </span>
+<span style="color:red;"> **NOTE: This event is open only to individuals who have received a confirmation email from the organizing committee.** </span>
 
 **9:30 AM - 10:00 AM | Registration and Breakfast**    
 
@@ -181,15 +181,15 @@ Julia has over 20 years working experience in the areas of Artificial Intelligen
 # Career Fair
 ------
 
-[![nView Medical](/images/doctoral/nView.png){: width="240" }](https://www.nviewmed.com/)
-[![Adove](/images/doctoral/adobe_logo.png){: width="240" }](https://www.adobe.com/)
-[![ARUP](/images/sponsors/ARUP-logo.png){: width="240" }](https://www.aruplab.com)
-[![RAI](/images/doctoral/RAi_Logo.png){: width="240" }](https://rai.utah.edu/)
-[![imFusion](/images/sponsors/imfusion_logo_hires.png){: width="440" }](https://www.imfusion.com/)
-[![Johnson and Johnson](/images/doctoral/JJIM.png){: width="440" }](https://www.jnj.com/)
-[![Storyline](/images/doctoral/storyline.png){: width="240" }](https://storylinehealth.com/)
-[![VA-SLC](/images/doctoral/VA.png){: width="340" }](https://www.va.gov/salt-lake-city-health-care/)
-[![YRB](/images/doctoral/YRB_MIDL.png){: width="340" }](https://www.midl.io/young-researchers-board)
+[![nView Medical](/images/doctoral/nView.png){: width="340" }](https://www.nviewmed.com/)
+[![Adove](/images/doctoral/adobe_logo.png){: width="340" }](https://www.adobe.com/)
+[![ARUP](/images/sponsors/ARUP-logo.png){: width="340" }](https://www.aruplab.com)
+[![RAI](/images/doctoral/RAi_Logo.png){: width="340" }](https://rai.utah.edu/)
+[![imFusion](/images/sponsors/imfusion_logo_hires.png){: width="540" }](https://www.imfusion.com/)
+[![Johnson and Johnson](/images/doctoral/JJIM.png){: width="540" }](https://www.jnj.com/)
+[![Storyline](/images/doctoral/storyline.png){: width="340" }](https://storylinehealth.com/)
+[![VA-SLC](/images/doctoral/VA.png){: width="440" }](https://www.va.gov/salt-lake-city-health-care/)
+[![YRB](/images/doctoral/YRB_MIDL.png){: width="440" }](https://www.midl.io/young-researchers-board)
 
 ## **Doctoral Symposium Venue: Warnock Engineering Building**
 ------
