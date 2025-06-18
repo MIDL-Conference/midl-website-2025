@@ -1190,21 +1190,6 @@
     },
     {
         "number": 127,
-        "UID": "O-127",
-        "forum": "https://openreview.net/forum?id=vxSo5TJxlB",
-        "Track": "Full paper",
-        "Session": "Oral 2.A: Responsible Al",
-        "Final Decision": "Oral",
-        "title": "Evaluating Shortcut Utilization in Deep Learning Disease Classification through Counterfactual Analysis",
-        "abstract": "Although deep learning models can surpass human performance in many medical image analysis tasks, they remain vulnerable to algorithmic shortcuts, where spurious correlations in the data are exploited, which may lead to reduced trust in their predictions/classifications. This issue is especially concerning when models rely on protected attributes (e.g., sex, race, or site) as shortcuts. Such shortcut reliance not only impairs their ability to generalize to unseen datasets but also raises fairness concerns, ultimately undermining their purpose for computer-aided diagnosis. Previous techniques for analyzing protected attributes, such as supervised prediction layer information tests, only highlight the presence of protected attributes in the feature space but do not confirm their role in solving the primary task. Determining the impact of protected attributes as shortcuts is particularly challenging, as it requires knowing how a model would perform without those attributes ‚Äî a counterfactual scenario typically unattainable in real-world data. As a workaround, researchers have addressed the absence of counterfactuals by generating synthetic datasets with and without protected attributes. In this study, we propose a novel approach to evaluate real-world datasets and determine the extent to which each protected attribute is used as a shortcut in a classification task. Therefore, we define and train a causal generative model to produce causally-grounded counterfactuals, removing protected attributes from activations and allowing us to measure their impact on model performance. Employing T1-weighted MRI data from 9 sites (835 subjects: 426 with Parkinson‚Äôs disease (PD) and 409 healthy), we demonstrate that counterfactually removing the 'site' attribute from the penultimate layer of a trained classification model reduced the AUROC for PD classification from 0.74 to 0.65, indicating a 9% performance improvement achieved by using 'site' as a shortcut. In contrast, counterfactually removing the 'sex' attribute had minimal impact on performance, with only a slight change of 0.004, indicating that 'sex' was not utilized as a shortcut by the classification model. The proposed method offers a robust framework for assessing shortcut utilization in medical image classification, paving the way for improved bias detection and mitigation in medical imaging tasks. The code for this work is available on https://github.com/vibujithan/shortcut-analysis.",
-        "authors": "Vibujithan Vigneshwaran, Emma A.M. Stanley, Raissa Souza, Erik Ohara, Matthias Wilms, Nils Forkert",
-        "Time": "Day 2 \u2014 9:00am-10:15am",
-        "Poster time": "Day 2 \u2014 10:30am-11:30am",
-        "Poster ID": "Poster 2.A - O.04",
-        "Chairs":"Qian Tao & Mattias Paul Heinrich" 
-    },
-    {
-        "number": 127,
         "UID": "F-127",
         "forum": "https://openreview.net/forum?id=vxSo5TJxlB",
         "Track": "Full paper",
@@ -1287,6 +1272,21 @@
         "Time": "Day 2 \u2014 10:30am-11:30am",
         "Poster time": "Day 2 \u2014 10:30am-11:30am",
         "Poster ID": "Poster 2.A - F.03"
+    },
+    {
+        "number": 25,
+        "UID": "O-25",
+        "forum": "https://openreview.net/forum?id=cj10StANqJ",
+        "Track": "Full paper",
+        "Session": "Oral 2.A: Responsible Al",
+        "Final Decision": "Oral",
+        "title": "Can Diffusion Models Generalize? Privacy and Fairness Trade-offs for Medical Data Sharing.",
+        "abstract": "The recent surge in options for diffusion model-based synthetic data sharing offers significant benefits for medical research, provided privacy and fairness concerns are addressed.\nGenerative models risk memorizing sensitive training samples, potentially exposing identifiable information.\nSimultaneously, underrepresented features -- such as rare diseases, uncommon medical devices, or infrequent patient ethnicities -- are often not learned well, creating unfair biases in downstream applications.\nOur work unifies these challenges by leveraging artificially generated fingerprints (SAFs) in the training data as a controllable test for memorization and fairness.\nSpecifically, we measure whether a diffusion model reproduces these fingerprints verbatim (a privacy breach) or ignores them entirely (a fairness violation) and introduce an indicator t' to quantify finished models for the likelihood of reproducing training samples.\nExtensive experiments on real and synthetic medical imaging datasets reveal that na\\\"ive diffusion model training can lead to privacy leaks or unfair coverage.\nBy systematically incorporating SAFs and monitoring t', we demonstrate how to balance privacy and fairness objectives.\nOur evaluation framework provides actionable guidance for designing generative models that preserve patient anonymity without excluding underrepresented patient subgroups. Code is available at https://github.com/MischaD/Privacy.",
+        "authors": "Mischa Dombrowski, Bernhard Kainz",
+        "Time": "Day 2 \u2014 9:00am-10:15am",
+        "Poster time": "Day 2 \u2014 10:30am-11:30am",
+        "Poster ID": "Poster 2.A - O.04",
+        "Chairs":"Qian Tao & Mattias Paul Heinrich" 
     },
     {
         "number": 25,
