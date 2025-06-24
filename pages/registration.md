@@ -10,7 +10,7 @@ title: Registration
 The conference is being held in [Salt Lake City, Utah](/venue.html). For a more detailed program of the conference, please visit [Program at a Glance](/porgram-glance.html). We will soon provide more information about the doctoral symposium.
 
 <p class="button">
-  <a href="https://it.sci.utah.edu/midl-conference-registration/" target="_blank">Register to MIDL 2025</a>
+  <a href="https://it.sci.utah.edu/midl-conference-registration/" target="_blank">Registeration Closed</a>
 </p>
 
 Each accepted paper needs **at least one author to register** for the conference. Please make sure to **enter the ID of the paper** you submitted on the registration form. 
