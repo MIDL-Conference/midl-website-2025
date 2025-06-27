@@ -14,7 +14,7 @@ Venue Addresses:
 
 [Google Maps Link](https://maps.app.goo.gl/hMyh6ZnUVqQSUpnQA) 
 
-## **Social Event**: Granite Ballroom, University Guest House
+## **Social Event**: Douglas Ballroom, University Guest House
 
 *Full Address*: 110 Fort Douglas Blvd, Salt Lake City, UT 84113.
 
