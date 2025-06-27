@@ -9,7 +9,7 @@ title: "Author instructions"
 
 **Oral Papers**: Each oral presentation is scheduled to last for twelve (12) minutes, and it will be followed by two (2) minutes of Q&A. 
 
-**Poster Papers**: The poster is expected to be printed in portrait orientation with a maximum size of 36 in (width) x 48 in (height). Please plan to hang your poster before the start of the conference day and leave it up for the full day on your assigned poster session day. Each poster session will last for one hour (1h), during which you will have the chance to present your work and discuss it with the rest of the participants.
+**Poster Papers**: The poster is expected to be printed in portrait orientation with a maximum size of 36 in (width) x 48 in (height). Please plan to hang your poster before the start of the conference day and leave it up for the full day on your assigned poster session day. Each poster session will last for one hour (1h), during which you will have the chance to present your work and discuss it with the rest of the participants. *Note: We ask the authors/presenters to remove their posters at the end of the conference day(before 5:30pm), it would make the life of the organizers easier.*
 
 The detailed program is already available at [Program](https://2025.midl.io/scientific-program).
 
