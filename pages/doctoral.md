@@ -66,9 +66,10 @@ and activities.
 
 Unwind with casual networking over billiards, bowling, ping-pong, air hockey, and video
 games — a fun way to end the day while strengthening professional connections. [Union Recreation](https://maps.app.goo.gl/zoe8V3BKMJT4HzdJA)
+*All activities at the Game Zone are covered by the organizers, so you can simply relax and enjoy!*
 
-*All activities at the Game Zone are covered by the organizers, so you can simply relax
-and enjoy!*
+**6:00 PM - 7:00 PM | Dinner**     
+Warnock Engineering Building, Catmull Gallery.
 
 
 ## Keynote Speaker: Edward V. DiBella, PhD
