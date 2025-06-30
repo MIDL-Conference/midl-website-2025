@@ -82,7 +82,7 @@ nav:
     path: "https://midl.io"
     icon: "scroll"
   - title: "Job Board"
-    path: "/job-board.html"
+    path: "https://midl.io/job-board.html"
     icon: "external-link-alt"
 cdn: "https://static.midl.io"
 
