@@ -29,14 +29,14 @@ Whether you are a researcher looking to improve dataset integrity, a clinician c
 Overview of workshop goals, structure, and the importance of robust data practices in medical imaging.
 
 **8:45 – 10:15 AM | Talk Session: Innovations in Dataset Management**     
-*Speaker: TBD*     
+*Speaker: Daniel Gural , Voxel51*     
 A high-level perspective on data challenges in medical imaging and the growing role of curated and synthetic datasets.    
 Short talks + Q&A from leading researchers and practitioners.     
 
 **10:15 AM – 10:30 AM | Coffee Break & Networking**     
 
 **10:30 AM – 12:15 PM | Hands-On Tutorial: Managing Medical Imaging Datasets with FiftyOne**     
-Facilitators: TBD
+Facilitators: Daniel Gural , Voxel51
 
 **12:15 PM – 1:15 PM | Lunch**     
 
