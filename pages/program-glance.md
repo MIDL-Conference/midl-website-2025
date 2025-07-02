@@ -6,6 +6,13 @@ title: Program at a Glance
 
 ![Program-at-glanes](/images/midl-program.png){ width=100% }
 
+<object data="images/Program-2025.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="images/Program-2025.pdf">
+    
+    </embed>
+</object>
+
+
 **Special Shuttle Service for Gala Dinner**: Special shuttles from University Guest house to Natural History Museum will start from 5:45pm. 
 
 Venue Addresses:
