@@ -425,20 +425,6 @@
         "Poster ID": "Poster 1.A - S.06"
     },
     {
-        "number": 90,
-        "UID": "S-90",
-        "forum": "https://openreview.net/forum?id=74Ox2Ivqkf",
-        "Track": "Short paper",
-        "Session": "Poster 1.A: Segmentation",
-        "Final Decision": "Poster",
-        "title": "End-to-End Patch-Based Semantic Segmentation for Paramagnetic Rim Lesion Detection",
-        "abstract": "Paramagnetic Rim Lesions (PRLs) are an emerging biomarker of chronic active inflammation in Multiple Sclerosis (MS) but their visual identification on susceptibility-sensitive MRI remains challenging and time-intensive. Due to the scarcity of PRLs, existing automated methods rely on patch-based classification, where a lesion-centered 3D patch is classified as PRL or non-PRL. However, MS lesions often occur in clusters, so a single patch may contain multiple types of lesions. Moreover, this approach requires prior extraction of lesion-centered patches which complicates the reconstruction of whole-brain predictions. To overcome this, we propose an end-to-end, whole-brain pipeline that generates patches on the fly and directly delineates PRLs within them, eliminating the need for lesion-centered extraction and enabling more precise and user-friendly automated PRL detection.",
-        "authors": "Zineb El yamani, Antoine Theberge, Manon Edde, Olivier Grimard, Emmanuelle Lapointe, Stefano Magon, Muhamed Barakovic, Maxime Descoteaux, Francois Rheault",
-        "Time": "Day 1 \u2014 10:30am-11:30am",
-        "Poster time": "Day 1 \u2014 10:30am-11:30am",
-        "Poster ID": "Poster 1.A - S.07"
-    },
-    {
         "number": 95,
         "UID": "S-95",
         "forum": "https://openreview.net/forum?id=mf46VVoZoG",
@@ -451,20 +437,6 @@
         "Time": "Day 1 \u2014 10:30am-11:30am",
         "Poster time": "Day 1 \u2014 10:30am-11:30am",
         "Poster ID": "Poster 1.A - S.08"
-    },
-    {
-        "number": 100,
-        "UID": "S-100",
-        "forum": "https://openreview.net/forum?id=sBUhppId5Q",
-        "Track": "Short paper",
-        "Session": "Poster 1.A: Segmentation",
-        "Final Decision": "Poster",
-        "title": "PathSeqSAM: Sequential Modeling for Pathology Image Segmentation with SAM2",
-        "abstract": "Current methods for pathology image segmentation typically treat 2D slices independently, ignoring valuable cross-slice information. We present PathSeqSAM, a novel approach that treats 2D pathology slices as sequential video frames using SAM2's memory mechanisms. Our method introduces a distance-aware attention mechanism that accounts for variable physical distances between slices and employs LoRA for domain adaptation. Evaluated on the KPI Challenge 2024 dataset for glomeruli segmentation, PathSeqSAM demonstrates improved segmentation quality, particularly in challenging cases that benefit from cross-slice context. We have publicly released our code at [PathSeqSAM](https://github.com/JackyyyWang/PathSeqSAM).",
-        "authors": "Mingyang Zhu, Yinting Liu, Mingyu Li, Jiacheng Wang",
-        "Time": "Day 1 \u2014 10:30am-11:30am",
-        "Poster time": "Day 1 \u2014 10:30am-11:30am",
-        "Poster ID": "Poster 1.A - S.09"
     },
     {
         "number": 101,
@@ -1088,20 +1060,6 @@
         "Poster ID": "Poster 1.B - S.13"
     },
     {
-        "number": 120,
-        "UID": "S-120",
-        "forum": "https://openreview.net/forum?id=gqLXT8Edf3",
-        "Track": "Short paper",
-        "Session": "Poster 1.B: Generative Al",
-        "Final Decision": "Poster",
-        "title": "Obscure to Observe: A Lesion-Aware MAE for Glaucoma Detection from Retinal Context",
-        "abstract": "Self-supervised learning (SSL) offers a powerful paradigm for medical image representation\nlearning, particularly in low-label regimes. However, standard pretext tasks often over-\nlook domain-specific cues vital for diseases like glaucoma‚Äîa leading cause of irreversible\nblindness that manifests as subtle structural changes in the optic disc (OD) region. Un-\nderstanding the broader retinal context is essential, yet traditional models tend to overfit\nto localized features, limiting generalizability. We propose a glaucoma-aware SSL frame-\nwork using a Deconvolutional Masked Autoencoder (Deconv-MAE) with a ViT-B encoder,\ntrained to reconstruct clean fundus images from inputs degraded by Gaussian noise and\nanatomically-aware OD masking. This lesion-focused corruption compels the model to learn\nrobust, context-rich representations. Pretrained on EYEPACS and fine-tuned on ORIGA-\nlight, our method outperforms both standard MAE and supervised baselines, highlighting\nthe value of anatomically informed pretext tasks in retinal diagnostics.",
-        "authors": "Siddhant Bharadwaj, Pratinav Seth, Chandra Sekhar Seelamantula",
-        "Time": "Day 1 \u2014 3:00pm-4:00pm",
-        "Poster time": "Day 1 \u2014 3:00pm-4:00pm",
-        "Poster ID": "Poster 1.B - S.14"
-    },
-    {
         "number": 29,
         "UID": "O-29",
         "forum": "https://openreview.net/forum?id=nKLCB8d3Ko",
@@ -1539,20 +1497,6 @@
         "Time": "Day 2 \u2014 10:30am-11:30am",
         "Poster time": "Day 2 \u2014 10:30am-11:30am",
         "Poster ID": "Poster 2.A - S.08"
-    },
-    {
-        "number": 64,
-        "UID": "S-64",
-        "forum": "https://openreview.net/forum?id=h30b7oDs4O",
-        "Track": "Short paper",
-        "Session": "Poster 2.A: Responsible Al",
-        "Final Decision": "Poster",
-        "title": "GRASP: Graph Augmentation via Sampling and Permutation",
-        "abstract": "Structural brain graphs illuminate individual differences and neurological traits but are underutilized due to limited data from the challenges of MRI acquisition and preprocessing. We introduce Graph Augmentation via Sampling and Permutation (GRASP), a method that synthesizes brain graphs by sampling edge values from consistent positions across multiple adjacency matrices within the same class---assuming topological consistency. Unlike deep learning techniques, GRASP relies on straightforward manipulations of adjacency matrices, which reduces computational demands and simplifies implementation. In this paper, we examine the proof of concept of this augmentation technique on a gender classification task using structural connectomes. We demonstrate enhanced brain graph classification and confirm that within-class adjacency consistency can generate graph variants without complex modeling. The code is publicly available at: https://github.com/heliasah/GRASP-Code",
-        "authors": "Ahmed Nebli, Helia Sahebghadam",
-        "Time": "Day 2 \u2014 10:30am-11:30am",
-        "Poster time": "Day 2 \u2014 10:30am-11:30am",
-        "Poster ID": "Poster 2.A - S.09"
     },
     {
         "number": 81,
@@ -2615,20 +2559,6 @@
         "Poster ID": "Poster 3.A - S.09"
     },
     {
-        "number": 85,
-        "UID": "S-85",
-        "forum": "https://openreview.net/forum?id=2kl73AjoPB",
-        "Track": "Short paper",
-        "Session": "Poster 3.A: Representation Learning & Foundation Models",
-        "Final Decision": "Poster",
-        "title": "Early diagnosis of skin cancer from phone-taken skin lesion images using Vision Transformers",
-        "abstract": "Recent advances in computer vision have made Vision Transformers (ViTs) strong alternatives to CNNs in medical imaging. We compare top ViT models‚Äîincluding Token-to-Token ViT, CaiT, LeViT, ATSViT, and XCiT‚Äîon the Kaggle skin cancer dataset, focusing on classification accuracy, real score, and model complexity. While ViTs for small datasets show high accuracy, they have many parameters; LeViT offers strong performance with the fewest parameters. This review highlights current trends, deployment challenges, and future directions for transformers in skin cancer detection.",
-        "authors": "Sina Garazhian, Parsa Hariri",
-        "Time": "Day 3 \u2014 10:30am-11:30am",
-        "Poster time": "Day 3 \u2014 10:30am-11:30am",
-        "Poster ID": "Poster 3.A - S.10"
-    },
-    {
         "number": 91,
         "UID": "S-91",
         "forum": "https://openreview.net/forum?id=vWkjFvYUws",
@@ -2970,20 +2900,6 @@
         "Poster ID": "Poster 3.B - F.10"
     },
     {
-        "number": 108,
-        "UID": "F-108",
-        "forum": "https://openreview.net/forum?id=iajnNQ1u3Y",
-        "Track": "Full paper",
-        "Session": "Poster 3.B: Applied Imaging: Synthesis, Reconstruction & Efficiency",
-        "Final Decision": "Poster",
-        "title": "IdFOPNet: Integrating Identity Attention and Fairness  Optimization in Anatomical Landmark Detection",
-        "abstract": "Fairness is the key to addressing bias in anatomical landmark point detection. Existing methods tend to ignore individual identity information, resulting in significant bias exhibited between different age groups and genders. Moreover, current studies mainly focus on improving the accuracy of models and lack the dynamic optimisation mechanism of fairness, resulting in the bias problem not being solved effectively. To this end, we propose an anatomical landmark detection network that integrates Identity features and Fairness OPtimization (IdFOPNet). This method leverages a prototype network to detect landmarks by comparing image features with a set of global landmark prototypes. To enhance model fairness, we introduce the Identity Attention mechanism, incorporating identity information as prior knowledge into the detection process. Additionally, we design a penalty-based gradient modulation strategy to dynamically suppress the model‚Äôs over-reliance on specific biased information during training. We evaluate the IdFOPNet on the CephAdoAdu and Hand X-Rays datasets. Extensive experimental results demonstrate that our method outperforms SOTA approaches in anatomical landmark detection across different ages and genders.\n  Keywords: Anatomical landmark detection, Identity attention mechanism, Fairness optimization, Penalty-based gradient modulation.",
-        "authors": "Dexin Zhao, Hongbo Ye, Minghao Bian, Wu Yuxin, S Kevin Zhou",
-        "Time": "Day 3 \u2014 3:00pm-4:00pm",
-        "Poster time": "Day 3 \u2014 3:00pm-4:00pm",
-        "Poster ID": "Poster 3.B - F.11"
-    },
-    {
         "number": 129,
         "UID": "F-129",
         "forum": "https://openreview.net/forum?id=QbBPeAIdrk",
@@ -3052,20 +2968,6 @@
         "Time": "Day 3 \u2014 3:00pm-4:00pm",
         "Poster time": "Day 3 \u2014 3:00pm-4:00pm",
         "Poster ID": "Poster 3.B - S.03"
-    },
-    {
-        "number": 17,
-        "UID": "S-17",
-        "forum": "https://openreview.net/forum?id=z2awA18iWY",
-        "Track": "Short paper",
-        "Session": "Poster 3.B: Applied Imaging: Synthesis, Reconstruction & Efficiency",
-        "Final Decision": "Poster",
-        "title": "A-IDE : Agent-Integrated Denoising Experts",
-        "abstract": "Recent advances in deep learning-based denoising methods have improved the quality of Low-Dose CT (LDCT) images. However, due to anatomical variability and limited data availability, a single model often struggles to generalize effectively across multiple anatomical regions. To address this limitation, we propose the Agent-Integrated Denoising Experts (A-IDE) framework. A-IDE integrates three region-specialized RED-CNN models under the control of a decision-making large language model (LLM) agent. This agent analyzes anatomical priors extracted from BiomedCLIP and dynamically routes incoming LDCT scans to the most suitable specialized model. We highlight three major advantages. First, A-IDE shows robust performance in heterogeneous and data-scarce environments. Second, the framework reduces risk of overfitting by distributing tasks among multiple experts. Finally, the fully automated agent-driven routing eliminates the need for manual intervention. Experimental results in the Mayo-2016 dataset confirm that A-IDE achieves superior performance in RMSE, PSNR, and SSIM compared to a single unified denoiser.",
-        "authors": "Uihyun Cho, Namhun Kim",
-        "Time": "Day 3 \u2014 3:00pm-4:00pm",
-        "Poster time": "Day 3 \u2014 3:00pm-4:00pm",
-        "Poster ID": "Poster 3.B - S.04"
     },
     {
         "number": 19,
