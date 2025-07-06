@@ -3108,5 +3108,49 @@
         "Time": "Day 3 \u2014 3:00pm-4:00pm",
         "Poster time": "Day 3 \u2014 3:00pm-4:00pm",
         "Poster ID": "Poster 3.B - S.14"
+    },
+    {
+        "number": 300,
+        "UID": "M-001",
+        "forum": "https://doi.org/10.59275/j.melba.2024-267f",
+        "Track": "MELBA Journal-to-conference",
+        "Session": "Poster 2.B: Clinical Diagnostics",
+        "Final Decision": "Poster",
+        "title": "Disentangling Hippocampal Shape Variations: A Study of Neurological Disorders Using Mesh Variational Autoencoder with Contrastive Learning",
+        "abstract": "This paper presents a comprehensive study focused on disentangling hippocampal shape variations from diffusion tensor imaging (DTI) datasets within the context of neurological disorders. Leveraging a Mesh Variational Autoencoder (VAE) enhanced with Supervised Contrastive Learning, our approach aims to improve interpretability by disentangling two distinct latent variables corresponding to age and the presence of diseases. In our ablation study, we investigate a range of VAE architectures and contrastive loss functions, showcasing the enhanced disentanglement capabilities of our approach. This evaluation uses synthetic 3D torus mesh data and real 3D hippocampal mesh datasets derived from the DTI hippocampal dataset. Our supervised disentanglement model outperforms several state-of-the-art (SOTA) methods like attribute and guided VAEs in terms of disentanglement scores. Our model distinguishes between age groups and disease status in patients with Multiple Sclerosis (MS) using the hippocampus data. Our Mesh VAE with Supervised Contrastive Learning shows the volume changes of the hippocampus of MS populations at different ages, and the result is consistent with the current neuroimaging literature. This research provides valuable insights into the relationship between neurological disorder and hippocampal shape changes in different age groups of MS populations using a Mesh VAE with Supervised Contrastive loss. Our code is available at https://github.com/Jakaria08/Explaining_Shape_Variability",
+        "authors": "Jakaria Rabbi, Johannes Kiechle, Christian Beaulieu, Nilanjan Ray, Dana Cobzas",
+        "Time": "Day 2 \u2014 3:00pm-4:00pm",
+        "Poster time": "Day 2 \u2014 3:00pm-4:00pm",
+        "Poster ID": "Poster 2.B - M.01"
+    },
+    {
+        "number": 301,
+        "UID": "M-002",
+        "forum": "https://doi.org/10.59275/j.melba.2025-86a6",
+        "Track": "MELBA Journal-to-conference",
+        "Session": "MELBA Oral",
+        "Final Decision": "Oral",
+        "title": "How to build the best medical image segmentation algorithm using foundation models: a comprehensive empirical study with Segment Anything Model",
+        "abstract": "Automated segmentation is a fundamental medical image analysis task, which enjoys significant advances due to the advent of deep learning. While foundation models have been useful in natural language processing and some vision tasks for some time, the foundation model developed with image segmentation in mind—Segment Anything Model (SAM)—has been developed only recently and has shown similar promise. However, there are still no sys- tematic analyses or “best-practice” guidelines for optimal fine-tuning of SAM for medical image segmentation. This work summarizes existing fine-tuning strategies with various backbone architectures, model components, and finetuning algorithms across 18 combinations and evaluates them on 17 datasets covering all common radiology modalities. Our study reveals that (1) fine-tuning SAM leads to slightly better performance than previous segmentation methods, (2) fine-tuning strategies that use parameterefficient learning in both the encoder and decoder are superior to other strategies, (3) network architecture has a small impact on final performance, and (4) further training SAM with self-supervised learning can improve final model performance. We also demonstrate the ineffectiveness of some methods popular in the literature and further expand our experiments into few-shot and prompt-based settings. Lastly, we released our code and MRI-specific fine-tuned weights, which consistently obtained superior performance over the original SAM, at https://github.com/mazurowskilab/finetune-SAM",
+        "authors": "Hanxue Gu, Haoyu Dong, Jichen Yang, Maciej A. Mazurowski",
+        "Time": "Day 2 \u2014 4:00pm-5:00pm",
+        "Poster time": "Day 2 \u2014 3:00pm-4:00pm",
+        "Poster ID": "Poster 2.B - M.02",
+        "Chairs": "Tal Arbel & Hoel Kervadec"
+    },
+    {
+        "number": 302,
+        "UID": "M-003",
+        "forum": "https://doi.org/10.59275/j.melba.2025-g137",
+        "Track": "MELBA Journal-to-conference",
+        "Session": "MELBA Oral",
+        "Final Decision": "Oral",
+        "title": "Understanding differences in applying DETR to natural and medical images",
+        "abstract": "Natural images depict real-world scenes such as landscapes, animals, and everyday items. Transformer-based detectors, such as the Detection Transformer, have demonstrated strong object detection performance on natural image datasets. These models are typically optimized through complex engineering strategies tailored to the characteristics of natural scenes. However, medical imaging presents unique challenges, such as high resolutions, smaller and fewer regions of interest, and subtle inter-class differences, which differ significantly from natural images. In this study, we evaluated the effectiveness of common design choices in transformer-based detectors when applied to medical imaging. Using two representative datasets, a mammography dataset and a chest CT dataset, we showed that common design choices proposed for natural images, including complex encoder architectures, multi-scale feature fusion, query initialization, and iterative bounding box refinement, fail to improve and can even be detrimental to the object detection performance. In contrast, simpler and shallower architectures often achieve equal or superior results with less computational cost. These findings highlight that standard design practices need to be reconsidered when adapting transformer models to medical imaging, and suggest that simplicity may be more effective than added complexity in this domain. Our model code and weights are publicly available at https://github.com/nyukat/Mammo-DETR",
+        "authors": "Yanqi Xu, Yiqiu Shen, Carlos Fernandez-Granda, Laura Heacock, Krzysztof J. Geras",
+        "Time": "Day 2 \u2014 4:00pm-5:00pm",
+        "Poster time": "Day 2 \u2014 3:00pm-4:00pm",
+        "Poster ID": "Poster 2.B - M.03",
+        "Chairs": "Tal Arbel & Hoel Kervadec"
     }
 ]
