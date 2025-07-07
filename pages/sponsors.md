@@ -2,7 +2,7 @@
 title: Sponsors
 ---
 
-# Current Sponsors
+# Sponsors
 
 ## Gold
 
