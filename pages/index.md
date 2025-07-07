@@ -28,8 +28,8 @@ For attendees unable to bring a printed poster, the [**Marriott Library at the U
 
 * **Location:** Marriott Library, University of Utah campus
 * **Accepted formats:** PDF or JPEG (on a USB drive)
-* **Typical turnaround time:** \~30 minutes
-* **Cost:** \~\$75–80 (including tax) for non-UofU users
+* **Typical turnaround time:** ~30 minutes
+* **Cost:** ~$75–80 (including tax) for non-UofU users
 * **Same-day service available** (no extra fee)
 
 We recommend visiting the library early in the day to avoid delays.
