@@ -25,6 +25,7 @@ title: Sponsors
 
 All logos are trademarks and property of their respective owners.
 
+<!--
 # Sponsorship Packages
 
 Explore exclusive opportunities to amplify your brand and connect with industry leaders at MIDL 2025. Our sponsorship packages offer targeted exposure, meaningful networking, and enhanced visibility among top medical imaging and AI professionals. Engage with innovators, share your expertise, and position your company at the forefront of technological advancements in healthcare. Select the package that best fits your goals and join us in shaping the future of medical imaging.
@@ -54,4 +55,4 @@ Explore exclusive opportunities to amplify your brand and connect with industry 
 ## Bronze — $1,000
 -	Company name and logo on the conference website
 -	Optional: one registration for the entire conference (+$750)
-
+-->
