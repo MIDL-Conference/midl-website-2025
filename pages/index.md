@@ -21,6 +21,21 @@ We are excited to welcome the medical imaging and AI community to Salt Lake City
 
 Check back for updates on the program, logistics, and what to expect on-site. We look forward to seeing you soon!
 
+
+📢 **On-Site Poster Printing (For Late or Emergency Printing)**
+
+For attendees unable to bring a printed poster, the [**Marriott Library at the University of Utah**](https://lib.utah.edu/services/) offers on-site poster printing services, including for non-University visitors.
+
+* **Location:** Marriott Library, University of Utah campus
+* **Accepted formats:** PDF or JPEG (on a USB drive)
+* **Typical turnaround time:** \~30 minutes
+* **Cost:** \~\$75–80 (including tax) for non-UofU users
+* **Same-day service available** (no extra fee)
+
+We recommend visiting the library early in the day to avoid delays.
+
+**Please note:** *Conference organizers are not able to assist with poster printing. Attendees are responsible for arranging and covering any printing needs.*
+
 <!--
 ### 📢 Reminder: Early Registration Ends May 18!
 
@@ -36,6 +51,7 @@ We are seeking experts in medical imaging, AI, and deep learning to join the rev
 **Interested?** Please apply via this [form](https://forms.gle/79BQq68T2dK24Jhf8) 
 <!--- by **October 21st, 2024**. --->
 
+<!---
 Help us ensure a high-quality conference by sharing your expertise!
 --->
 
