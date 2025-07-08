@@ -94,7 +94,7 @@ Vanderbilt University
 ## Website & Media
 
 * [Shireen Elhabian](https://www.sci.utah.edu/~shireen), Ph.D., Kahlert School of Computing, Scientific Computing and Imaging Institute, University of Utah
-<!--* [Nathan Galli](https://www.sci.utah.edu/people/nathang.html), Graphic Designer and Manager of the Media Group, Scientific Computing and Imaging Institute, University of Utah -->
+* [Nathan Galli](https://www.sci.utah.edu/people/nathang.html), Graphic Designer and Manager of the Media Group, Scientific Computing and Imaging Institute, University of Utah
 * [Edward Cask](https://www.sci.utah.edu/people/cask.html), IT Project Manager, Scientific Computing and Imaging Institute, University of Utah
 * [Tushar Kataria](https://www.sci.utah.edu/people/tushar.kataria.html), PhD Student, Scientific Computing and Imaging Institute, University of Utah
 
