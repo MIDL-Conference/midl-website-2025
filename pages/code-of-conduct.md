@@ -61,3 +61,12 @@ The safety officers may recommend any such actions that will result in a fair an
 Following the safety officers' recommendation, the MIDL Board sub-committee on disciplinary affairs will review all information provided by the safety officers and issue its decision. Unacceptable behavior may cause removal from, or denial of access to, current or future MIDL events; suspension or termination of membership; revocation of any awards or other recognition from MIDL; and other actions without refund of any applicable registration fees or costs. In addition, violations may be reported to the individual's employer.
 
 If action is taken, an appeals process will be made available.
+
+
+## Contact information for further questions, concerns or complaints
+Individuals who have questions, concerns or complaints related to harassment are also encouraged to contact the conference organizers at 2025@midl.io or the HHS Office for Civil Rights (OCR). 
+
+Information on filing a complaint with HHS OCR can be found at https://www.hhs.gov/civil-rights/filing-a-complaint/index.html. Filing a complaint with the conference organizer is not required before filing a complaint of discrimination with HHS OCR. Furthermore, seeking assistance from the conference organizer in no way prohibits filing complaints with HHS OCR. 
+
+Individuals can notify NIH about concerns of harassment, discrimination, and other forms of inappropriate conduct at NIH-supported conferences at https://public.era.nih.gov/shape/public/index.era
+
