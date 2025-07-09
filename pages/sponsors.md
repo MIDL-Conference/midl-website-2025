@@ -20,7 +20,7 @@ title: Sponsors
 
 ## Travel Awards
 
-[![NIH](/images/sponsors/NIH-Logo.jpg){: width="440" }](https://www.nih.gov/)
+<!-- ![NIH](/images/sponsors/NIH-Logo.jpg){: width="440" }](https://www.nih.gov/) -->
 
 Funding for this conference was made possible (in part) by 1R13EB038076-01 from the
 National Institute of Biomedical Imaging and Bioengineering. The views expressed in
