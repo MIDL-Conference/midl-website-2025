@@ -59,3 +59,23 @@ Salt Lake City International Airport stands out for its exceptional accessibilit
 
 
 <!-- https://slcairport.com/assets/SLC-Weekly-Flight-Schedule-Changes-Report-090924.pdf -->
+
+
+## Family Care
+
+**La Petite Academy of Salt Lake City**
+Offers drop-in day childcare – approximately 12 miles from conference venue 
+https://www.lapetite.com/your-local-school/salt-lake-city-ut-7318/
+Address: 6955 S. 2300 East, Salt Lake City, UT 84121
+
+*Phone:* (855) 409-2324
+
+**Salt Lake County Parks & Recreation**
+Offers childcare programs at several locations 
+https://www.saltlakecounty.gov/parks-recreation/activities/child-care/
+
+*Phone:* (385) 468-1800
+
+**List of other drop-in day care in the Salt Lake City area:** 
+https://www.care.com/drop-in-daycare/salt-lake-city-ut
+
