@@ -18,6 +18,13 @@ title: Sponsors
 
 [![Voxel51](/images/sponsors/Logo_FullVoxel51_FullColor_RGB.svg){: width="340" }](https://voxel51.com)
 
+## Travel Awards
+
+[![NIH](/images/sponsors/nih-logo.png){: width="440" }](https://www.nih.gov/)
+
+MIDL 2025 travel awards are supported in part by the National Institutes of Health under Award Number R13EB038076. The content of this conference is solely the responsibility of the organizers and does not necessarily represent the official views of the National Institutes of Health.
+
+
 ## Supporting Organizations
 
 [![SCI](/images/sponsors/sci-30-multi.jpg){: width="180" }](https://www.sci.utah.edu)
