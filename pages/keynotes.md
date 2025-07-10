@@ -55,7 +55,7 @@ page_class: "keynotes"
 🏠 [Homepage](https://profiles.stanford.edu/mirabela-rusu)
 🎓 [Google Scholar](https://scholar.google.com/citations?user=vmwsOyoAAAAJ&hl=en&oi=ao)
 
-<!-- #### **Multimodal Learning for Early Cancer Detection in Low Resource Settings** --?
+<!-- #### **Multimodal Learning for Early Cancer Detection in Low Resource Settings** -->
 #### **Bridging the Radiology-Pathology Gap for Prostate Cancer Characterization** 
 
 
