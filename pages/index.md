@@ -2,7 +2,7 @@
 title: Medical Imaging with Deep Learning 2025
 page_class: home
 ---
-{% from "_macros.html" import newsletter %}
+{% from "_macros.html" import newsletter, button, youtube %}
 
 # Medical Imaging with Deep Learning
 ## Salt Lake City, 9—11 July 2025
@@ -11,16 +11,10 @@ page_class: home
     <img alt="Utah" src="/images/midl-25-arches.jpg">
 </p>-->
 
-<div class="youtube">
-  <iframe width="720"
-          height="405"
-          src="https://www.youtube.com/embed/ajneiq8yLbs"
-          frameborder="0"
-          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen></iframe>
-</div>
+{{ youtube('tUEeZa0O9qs') }}
 
 <p class="centered">
+    <a href="https://www.youtube.com/watch?v=ajneiq8yLbs" class="button">Day 1</a>
     <a href="/scientific-program.html" class="button">Scientific program</a>
     <a href="/program-glance.html" class="button">Program at a glance</a>
 </p>
