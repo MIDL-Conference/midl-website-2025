@@ -55,7 +55,8 @@ page_class: "keynotes"
 🏠 [Homepage](https://profiles.stanford.edu/mirabela-rusu)
 🎓 [Google Scholar](https://scholar.google.com/citations?user=vmwsOyoAAAAJ&hl=en&oi=ao)
 
-#### **Multimodal Learning for Early Cancer Detection in Low Resource Settings**
+<!-- #### **Multimodal Learning for Early Cancer Detection in Low Resource Settings** --?
+#### **Bridging the Radiology-Pathology Gap for Prostate Cancer Characterization** 
 
 
 **Abstract:**  Clinical care is inherently multimodal, with medical image data collected throughout the patient’s journey.  For example, a patient at risk of cancer will undergo an ultrasound-guided biopsy, and when available with MRI revealing regions to be targeted due to higher risk to harbor aggressive disease. This biopsy procedure seeks to collect tissue samples for pathology and will inform treatment strategies for best outcomes. This common scenario provides unique opportunities for Artificial Intelligence (AI) methods to effectively integrate multimodal data, and learn imaging signatures in patients with known outcomes, to enable early cancer detection for patients at risk. My research focuses on developing AI methods that bridge the gap between highly informative modalities, e.g., pathology or MRI, and lower resolution modalities, e.g., ultrasound. These methods rely on multimodal image registration, image feature fusion, or integration of patient-specific data and population-specific information and rely on AI approaches for effective integration. While the learning is done with multiple imaging modalities, the inference requires only the low-resolution modality, e.g., ubiquitous conventional ultrasound, with applications in low-resource settings. These methods are applied to detect cancer and its aggressive extent in various cancers, e.g. prostate, kidney, or breast.  
