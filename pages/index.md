@@ -11,10 +11,11 @@ page_class: home
     <img alt="Utah" src="/images/midl-25-arches.jpg">
 </p>-->
 
-{{ youtube('tUEeZa0O9qs') }}
+{{ youtube('GYrQgWC1peE') }}
 
 <p class="centered">
     <a href="https://www.youtube.com/watch?v=ajneiq8yLbs" class="button">Day 1</a>
+    <a href="https://www.youtube.com/watch?v=tUEeZa0O9qs" class="button">Day 2</a>
     <a href="/scientific-program.html" class="button">Scientific program</a>
     <a href="/program-glance.html" class="button">Program at a glance</a>
 </p>
