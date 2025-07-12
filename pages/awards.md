@@ -23,6 +23,8 @@ These awards celebrate the spirit of MIDL — where cutting-edge methods meet cl
 }}
 [% / %]
 
+![Best Poster](/images/midl-pics/best-poster-pic.JPG){: width="1000" }
+
 #### Runner-up
 [% .papers %]
 {{ paper('HIEGNet: A Heterogenous Graph Neural Network Including the Immune Environment in Glomeruli Classification',
@@ -32,6 +34,7 @@ These awards celebrate the spirit of MIDL — where cutting-edge methods meet cl
 }}
 [% / %]
 
+![Runner Up Poster](/images/midl-pics/runner-poster-pic.JPG){: width="1000" }
 
 ## Best Oral Award
 #### Winner
@@ -43,6 +46,8 @@ These awards celebrate the spirit of MIDL — where cutting-edge methods meet cl
 }}
 [% / %]
 
+![Best Oral](/images/midl-pics/best-oral-pic.JPG){: width="1000" }
+
 #### Runner-up
 [% .papers %]
 {{ paper('PRISM: High-Resolution & Precise Counterfactual Medical Image Generation using Language-guided Stable Diffusion',
@@ -51,6 +56,8 @@ These awards celebrate the spirit of MIDL — where cutting-edge methods meet cl
         abstract="Developing reliable and generalizable deep learning systems for medical imaging faces significant obstacles due to spurious correlations, data imbalances, and limited text annotations in datasets. Addressing these challenges requires architectures robust to the unique complexities posed by medical imaging data. The rapid advancements in vision-language foundation models within the natural image domain prompt the question of how they can be adapted for medical imaging tasks. In this work, we present PRISM, a framework that leverages foundation models to generate high-resolution, language-guided medical image counterfactuals using Stable Diffusion. Our approach demonstrates unprecedented precision in selectively modifying spurious correlations (the medical devices) and disease features, enabling the removal and addition of specific attributes while preserving other image characteristics. Through extensive evaluation, we show how PRISM advances counterfactual generation and enables the development of more robust downstream classifiers for clinically deployable solutions.")
 }}
 [% / %]
+
+![Runner Up Oral](/images/midl-pics/runner-oral-pic.JPG){: width="1000" }
 
 ## Outstanding reviewer awards
 
