@@ -75,9 +75,11 @@ title: "Organization"
 * [Bennett Landman](https://my.vanderbilt.edu/masi/people/bennett-landman-ph-d/), Professor, Department Chair, Electrical and Computer Engineering,
 Vanderbilt University
 
+<!--
 ## Diversity Chair
 
-* [Islem Rekik](https://basira-lab.com), Associate Professor at Imperial College London
+* [Islem Rekik](https://basira-lab.com), Associate Professor at Imperial College London 
+-->
 
 ## Industry & Sponsor Events Chair
 
