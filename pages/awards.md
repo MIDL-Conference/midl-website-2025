@@ -47,7 +47,7 @@ These awards celebrate the spirit of MIDL — where cutting-edge methods meet cl
 [% .papers %]
 {{ paper('PRISM: High-Resolution & Precise Counterfactual Medical Image Generation using Language-guided Stable Diffusion',
         'Amar Kumar, Anita Kriz, Mohammad Havaei, Tal Arbel',
-        openreview='Amar Kumar, Anita Kriz, Mohammad Havaei, Tal Arbel',
+        openreview='https://openreview.net/forum?id=UpJMAlZNuo',
         abstract="Developing reliable and generalizable deep learning systems for medical imaging faces significant obstacles due to spurious correlations, data imbalances, and limited text annotations in datasets. Addressing these challenges requires architectures robust to the unique complexities posed by medical imaging data. The rapid advancements in vision-language foundation models within the natural image domain prompt the question of how they can be adapted for medical imaging tasks. In this work, we present PRISM, a framework that leverages foundation models to generate high-resolution, language-guided medical image counterfactuals using Stable Diffusion. Our approach demonstrates unprecedented precision in selectively modifying spurious correlations (the medical devices) and disease features, enabling the removal and addition of specific attributes while preserving other image characteristics. Through extensive evaluation, we show how PRISM advances counterfactual generation and enables the development of more robust downstream classifiers for clinically deployable solutions.")
 }}
 [% / %]
