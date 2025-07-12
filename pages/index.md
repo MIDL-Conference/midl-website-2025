@@ -16,9 +16,12 @@ page_class: home
 <p class="centered">
     <a href="https://www.youtube.com/watch?v=ajneiq8yLbs" class="button">Day 1</a>
     <a href="https://www.youtube.com/watch?v=tUEeZa0O9qs" class="button">Day 2</a>
+    <a href="https://www.youtube.com/watch?v=GYrQgWC1peE" class="button">Day 3</a>
     <a href="/scientific-program.html" class="button">Scientific program</a>
     <a href="/program-glance.html" class="button">Program at a glance</a>
 </p>
+
+
 
 *A big thank you to all who joined us in Salt Lake City. Here’s the MIDL community in full force!*
 ![MIDL25 Community](/images/midl-pics/midl25-community.jpeg){: width="1000" }
