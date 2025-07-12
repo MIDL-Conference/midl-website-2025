@@ -20,6 +20,9 @@ page_class: home
     <a href="/program-glance.html" class="button">Program at a glance</a>
 </p>
 
+*A big thank you to all who joined us in Salt Lake City. Here’s the MIDL community in full force!*
+![MIDL25 Community](/images/midl-pics/midl25-community.jpeg){: width="1000" }
+
 
 📢 **On-Site Poster Printing (For Late or Emergency Printing)**
 
