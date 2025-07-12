@@ -98,3 +98,10 @@ Vanderbilt University
 * [Edward Cask](https://www.sci.utah.edu/people/cask.html), IT Project Manager, Scientific Computing and Imaging Institute, University of Utah
 * [Tushar Kataria](https://www.sci.utah.edu/people/tushar.kataria.html), PhD Student, Scientific Computing and Imaging Institute, University of Utah
 
+
+## Volunteers
+
+*The behind-the-scenes heroes of MIDL 2025 — we couldn’t have done it without them!*
+
+![Best Poster](/images/midl-pics/volunteers1.JPG){: width="1000" }
+![Best Poster](/images/midl-pics/volunteers2.jpeg){: width="1000" }
